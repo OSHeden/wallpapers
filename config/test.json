@@ -2,7 +2,7 @@
   "latestVersion": "204.0",
   "latestVersionCode": 204,
   "disableRequest": {
-    "below": 2044
+    "below": 100
   },
   "url": "https://play.google.com/store/apps/details?id=com.osheden.test",
   "releaseNotes": [
