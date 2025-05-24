@@ -1,8 +1,8 @@
 [
   {
     "name": "google",
-    "url": "https://github.com/OSHeden/wallpapers/blob/main/Frames/Originals/Amoled/google.jpg?raw=true",
-    "thumbnail": "https://github.com/OSHeden/wallpapers/blob/main/Frames/Thumbs/Amoled/google.jpg?raw=true",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/google.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/google.jpg",
     "collections": "Amoled",
     "size": "24297",
     "dimensions": "1600x2844"
