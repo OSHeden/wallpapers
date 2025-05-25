@@ -1341,6 +1341,24 @@
   }
 ,
   {
+    "name": "moon_beach",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Nature/moon_beach.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Nature/moon_beach.png",
+    "collections": "Nature",
+    "size": "2567684",
+    "dimensions": "1920x3840"
+  }
+,
+  {
+    "name": "purple_osheden_2",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Nature/purple_osheden_2.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Nature/purple_osheden_2.png",
+    "collections": "Nature",
+    "size": "773537",
+    "dimensions": "1080x2160"
+  }
+,
+  {
     "name": "fish",
     "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Nature/fish.jpg",
     "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Nature/fish.jpg",
@@ -1401,6 +1419,15 @@
     "collections": "Nature",
     "size": "316407",
     "dimensions": "1168x1920"
+  }
+,
+  {
+    "name": "purple_osheden_1",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Nature/purple_osheden_1.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Nature/purple_osheden_1.png",
+    "collections": "Nature",
+    "size": "733679",
+    "dimensions": "1080x2160"
   }
 ,
   {
@@ -1941,6 +1968,15 @@
     "collections": "Abstract",
     "size": "1199890",
     "dimensions": "1600x2844"
+  }
+,
+  {
+    "name": "squares_multiples",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Abstract/squares_multiples.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Abstract/squares_multiples.jpg",
+    "collections": "Abstract",
+    "size": "238152",
+    "dimensions": "2000x3568"
   }
 ,
   {
