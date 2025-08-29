@@ -1,542 +1,245 @@
 [
   {
-    "name": "google",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/google.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/google.jpg",
-    "collections": "Amoled",
-    "size": "24297",
-    "dimensions": "1600x2844"
+    "name": "model",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Disturbing/model.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Disturbing/model.jpg",
+    "collections": "Disturbing",
+    "size": "407814",
+    "dimensions": "1389x1920"
   }
 ,
   {
-    "name": "sing",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/sing.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/sing.jpg",
-    "collections": "Amoled",
-    "size": "35900",
-    "dimensions": "1276x1920"
+    "name": "ms_addams",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Disturbing/ms_addams.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Disturbing/ms_addams.jpg",
+    "collections": "Disturbing",
+    "size": "398357",
+    "dimensions": "2600x3900"
   }
 ,
   {
-    "name": "mirror_light",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/mirror_light.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/mirror_light.jpg",
-    "collections": "Amoled",
-    "size": "791972",
-    "dimensions": "3744x5616"
+    "name": "blue",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Disturbing/blue.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Disturbing/blue.jpg",
+    "collections": "Disturbing",
+    "size": "75243",
+    "dimensions": "1080x1920"
   }
 ,
   {
-    "name": "dancing",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/dancing.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/dancing.png",
-    "collections": "Amoled",
-    "size": "269783",
+    "name": "skull_2",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Disturbing/skull_2.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Disturbing/skull_2.jpg",
+    "collections": "Disturbing",
+    "size": "209680",
+    "dimensions": "1396x1920"
+  }
+,
+  {
+    "name": "skull",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Disturbing/skull.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Disturbing/skull.png",
+    "collections": "Disturbing",
+    "size": "792365",
+    "dimensions": "1293x1920"
+  }
+,
+  {
+    "name": "worst_halloween",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Disturbing/worst_halloween.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Disturbing/worst_halloween.png",
+    "collections": "Disturbing",
+    "size": "656720",
+    "dimensions": "1097x1920"
+  }
+,
+  {
+    "name": "harley_quinn",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Disturbing/harley_quinn.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Disturbing/harley_quinn.jpg",
+    "collections": "Disturbing",
+    "size": "623666",
+    "dimensions": "4264x5456"
+  }
+,
+  {
+    "name": "nazgul",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Disturbing/nazgul.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Disturbing/nazgul.png",
+    "collections": "Disturbing",
+    "size": "551267",
     "dimensions": "1440x2560"
   }
 ,
   {
-    "name": "reverse",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/reverse.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/reverse.jpg",
-    "collections": "Amoled",
-    "size": "26819",
+    "name": "women_black",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Disturbing/women_black.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Disturbing/women_black.jpg",
+    "collections": "Disturbing",
+    "size": "160878",
     "dimensions": "1280x1920"
   }
 ,
   {
-    "name": "runner",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/runner.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/runner.jpg",
-    "collections": "Amoled",
-    "size": "49714",
-    "dimensions": "1600x2844"
+    "name": "skull_paint",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Disturbing/skull_paint.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Disturbing/skull_paint.jpg",
+    "collections": "Disturbing",
+    "size": "183838",
+    "dimensions": "1280x1920"
   }
 ,
   {
-    "name": "tree",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/tree.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/tree.jpg",
-    "collections": "Amoled",
-    "size": "178030",
-    "dimensions": "1600x2844"
+    "name": "diablo",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Disturbing/diablo.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Disturbing/diablo.png",
+    "collections": "Disturbing",
+    "size": "710329",
+    "dimensions": "1440x2560"
   }
 ,
   {
-    "name": "blue_woman",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/blue_woman.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/blue_woman.png",
-    "collections": "Amoled",
-    "size": "75981",
+    "name": "portrait_woman",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Disturbing/portrait_woman.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Disturbing/portrait_woman.jpg",
+    "collections": "Disturbing",
+    "size": "109961",
+    "dimensions": "1284x1920"
+  }
+,
+  {
+    "name": "skull_science",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Disturbing/skull_science.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Disturbing/skull_science.jpg",
+    "collections": "Disturbing",
+    "size": "188818",
+    "dimensions": "1176x1920"
+  }
+,
+  {
+    "name": "alien",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Disturbing/alien.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Disturbing/alien.jpg",
+    "collections": "Disturbing",
+    "size": "50036",
+    "dimensions": "1697x2400"
+  }
+,
+  {
+    "name": "skull_purple",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Disturbing/skull_purple.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Disturbing/skull_purple.png",
+    "collections": "Disturbing",
+    "size": "1369761",
+    "dimensions": "1440x2560"
+  }
+,
+  {
+    "name": "dents",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Disturbing/dents.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Disturbing/dents.png",
+    "collections": "Disturbing",
+    "size": "396776",
     "dimensions": "1500x2667"
   }
 ,
   {
-    "name": "figure",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/figure.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/figure.jpg",
-    "collections": "Amoled",
-    "size": "67724",
-    "dimensions": "1280x1920"
+    "name": "crow_at_night",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Disturbing/crow_at_night.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Disturbing/crow_at_night.jpg",
+    "collections": "Disturbing",
+    "size": "1976207",
+    "dimensions": "3680x8080"
   }
 ,
   {
-    "name": "ink2",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/ink2.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/ink2.png",
-    "collections": "Amoled",
-    "size": "89695",
-    "dimensions": "1417x1920"
+    "name": "dont_be_evil",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Disturbing/dont_be_evil.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Disturbing/dont_be_evil.png",
+    "collections": "Disturbing",
+    "size": "2258117",
+    "dimensions": "1920x3840"
   }
 ,
   {
-    "name": "ink",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/ink.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/ink.png",
-    "collections": "Amoled",
-    "size": "48000",
-    "dimensions": "1150x2000"
+    "name": "falcon_sinistry",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Disturbing/falcon_sinistry.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Disturbing/falcon_sinistry.jpg",
+    "collections": "Disturbing",
+    "size": "113085",
+    "dimensions": "1176x1920"
   }
 ,
   {
-    "name": "terror",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/terror.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/terror.jpg",
-    "collections": "Amoled",
-    "size": "113963",
-    "dimensions": "1210x1920"
+    "name": "woman_serious",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Disturbing/woman_serious.jpeg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Disturbing/woman_serious.jpeg",
+    "collections": "Disturbing",
+    "size": "456818",
+    "dimensions": "2143x3500"
   }
 ,
   {
-    "name": "luz",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/luz.jpeg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/luz.jpeg",
-    "collections": "Amoled",
-    "size": "336237",
-    "dimensions": "2249x4000"
+    "name": "bad_girl",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Disturbing/bad_girl.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Disturbing/bad_girl.png",
+    "collections": "Disturbing",
+    "size": "5211942",
+    "dimensions": "3072x5120"
   }
 ,
   {
-    "name": "zen",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/zen.jpeg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/zen.jpeg",
-    "collections": "Amoled",
-    "size": "326855",
-    "dimensions": "3241x5270"
+    "name": "skull_king",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Disturbing/skull_king.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Disturbing/skull_king.jpg",
+    "collections": "Disturbing",
+    "size": "155998",
+    "dimensions": "1176x1920"
   }
 ,
   {
-    "name": "woman_art",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/woman_art.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/woman_art.jpg",
-    "collections": "Amoled",
-    "size": "41596",
-    "dimensions": "1280x1920"
+    "name": "dark_enemy",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Disturbing/dark_enemy.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Disturbing/dark_enemy.png",
+    "collections": "Disturbing",
+    "size": "2332116",
+    "dimensions": "1920x3840"
   }
 ,
   {
-    "name": "spider",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/spider.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/spider.jpg",
-    "collections": "Amoled",
-    "size": "38151",
-    "dimensions": "1150x2000"
+    "name": "skull_in_bottle",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Disturbing/skull_in_bottle.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Disturbing/skull_in_bottle.jpg",
+    "collections": "Disturbing",
+    "size": "214092",
+    "dimensions": "1176x1920"
   }
 ,
   {
-    "name": "wolf_blue",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/wolf_blue.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/wolf_blue.jpg",
-    "collections": "Amoled",
-    "size": "39049",
-    "dimensions": "1150x2000"
-  }
-,
-  {
-    "name": "man_monkey",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/man_monkey.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/man_monkey.jpg",
-    "collections": "Amoled",
-    "size": "104393",
-    "dimensions": "1469x1920"
-  }
-,
-  {
-    "name": "buldings",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/buldings.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/buldings.png",
-    "collections": "Amoled",
-    "size": "355220",
-    "dimensions": "2000x3635"
-  }
-,
-  {
-    "name": "candle",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/candle.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/candle.png",
-    "collections": "Amoled",
-    "size": "421418",
-    "dimensions": "1500x2667"
-  }
-,
-  {
-    "name": "snake_black",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/snake_black.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/snake_black.png",
-    "collections": "Amoled",
-    "size": "92308",
-    "dimensions": "1665x3167"
-  }
-,
-  {
-    "name": "black_crow",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/black_crow.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/black_crow.png",
-    "collections": "Amoled",
-    "size": "31701",
-    "dimensions": "1250x1920"
-  }
-,
-  {
-    "name": "sticks",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/sticks.jpeg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/sticks.jpeg",
-    "collections": "Amoled",
-    "size": "45183",
-    "dimensions": "2592x3888"
-  }
-,
-  {
-    "name": "circular",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/circular.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/circular.jpg",
-    "collections": "Amoled",
-    "size": "116960",
-    "dimensions": "1600x2844"
-  }
-,
-  {
-    "name": "butterfly_colorful",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/butterfly_colorful.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/butterfly_colorful.jpg",
-    "collections": "Amoled",
-    "size": "209544",
-    "dimensions": "1600x2844"
-  }
-,
-  {
-    "name": "fractal",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/fractal.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/fractal.jpg",
-    "collections": "Amoled",
-    "size": "253533",
-    "dimensions": "1600x2844"
-  }
-,
-  {
-    "name": "pexels",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/pexels.jpeg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/pexels.jpeg",
-    "collections": "Amoled",
-    "size": "709119",
-    "dimensions": "2450x4000"
-  }
-,
-  {
-    "name": "hand",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/hand.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/hand.jpg",
-    "collections": "Amoled",
-    "size": "112603",
-    "dimensions": "1150x2000"
-  }
-,
-  {
-    "name": "woman_bw",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/woman_bw.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/woman_bw.jpg",
-    "collections": "Amoled",
-    "size": "75993",
-    "dimensions": "1280x1920"
-  }
-,
-  {
-    "name": "google_white",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/google_white.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/google_white.jpg",
-    "collections": "Amoled",
-    "size": "69773",
-    "dimensions": "1600x2844"
-  }
-,
-  {
-    "name": "angel",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/angel.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/angel.png",
-    "collections": "Amoled",
-    "size": "47238",
-    "dimensions": "1279x1920"
-  }
-,
-  {
-    "name": "circles",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/circles.jpeg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/circles.jpeg",
-    "collections": "Amoled",
-    "size": "323884",
-    "dimensions": "4836x8000"
-  }
-,
-  {
-    "name": "minimalist_android",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Minimalist/minimalist_android.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Minimalist/minimalist_android.png",
-    "collections": "Minimalist",
-    "size": "15289",
-    "dimensions": "1080x2000"
-  }
-,
-  {
-    "name": "cloud",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Minimalist/cloud.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Minimalist/cloud.jpg",
-    "collections": "Minimalist",
-    "size": "97594",
-    "dimensions": "1080x1920"
-  }
-,
-  {
-    "name": "moustache",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Minimalist/moustache.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Minimalist/moustache.png",
-    "collections": "Minimalist",
-    "size": "12453",
-    "dimensions": "1080x1920"
-  }
-,
-  {
-    "name": "giraffe",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Minimalist/giraffe.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Minimalist/giraffe.jpg",
-    "collections": "Minimalist",
-    "size": "34734",
-    "dimensions": "1080x1920"
-  }
-,
-  {
-    "name": "camp",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Minimalist/camp.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Minimalist/camp.png",
-    "collections": "Minimalist",
-    "size": "18629",
-    "dimensions": "1080x2376"
-  }
-,
-  {
-    "name": "cat_yellow",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Minimalist/cat_yellow.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Minimalist/cat_yellow.jpg",
-    "collections": "Minimalist",
-    "size": "28548",
-    "dimensions": "1357x1920"
-  }
-,
-  {
-    "name": "rounded_simple_cyan",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Minimalist/rounded_simple_cyan.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Minimalist/rounded_simple_cyan.jpg",
-    "collections": "Minimalist",
-    "size": "27137",
-    "dimensions": "1600x2844"
-  }
-,
-  {
-    "name": "walking",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Minimalist/walking.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Minimalist/walking.jpg",
-    "collections": "Minimalist",
-    "size": "23698",
-    "dimensions": "1357x1920"
-  }
-,
-  {
-    "name": "cute_E_T",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Minimalist/cute_E_T.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Minimalist/cute_E_T.png",
-    "collections": "Minimalist",
-    "size": "44129",
-    "dimensions": "1280x2780"
-  }
-,
-  {
-    "name": "desert",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Minimalist/desert.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Minimalist/desert.png",
-    "collections": "Minimalist",
-    "size": "25345",
-    "dimensions": "1080x2376"
-  }
-,
-  {
-    "name": "moon_minimalist",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Minimalist/moon_minimalist.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Minimalist/moon_minimalist.png",
-    "collections": "Minimalist",
-    "size": "22593",
-    "dimensions": "1600x2400"
-  }
-,
-  {
-    "name": "bird",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Minimalist/bird.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Minimalist/bird.png",
-    "collections": "Minimalist",
-    "size": "32107",
-    "dimensions": "1080x2376"
-  }
-,
-  {
-    "name": "airplane",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Minimalist/airplane.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Minimalist/airplane.jpg",
-    "collections": "Minimalist",
-    "size": "53340",
-    "dimensions": "1080x1920"
-  }
-,
-  {
-    "name": "minimalist_space",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Minimalist/minimalist_space.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Minimalist/minimalist_space.png",
-    "collections": "Minimalist",
-    "size": "34493",
-    "dimensions": "1080x2000"
-  }
-,
-  {
-    "name": "snow",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Minimalist/snow.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Minimalist/snow.jpg",
-    "collections": "Minimalist",
-    "size": "58195",
-    "dimensions": "1080x1920"
-  }
-,
-  {
-    "name": "rounded_simple_red",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Minimalist/rounded_simple_red.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Minimalist/rounded_simple_red.jpg",
-    "collections": "Minimalist",
-    "size": "27401",
-    "dimensions": "1600x2844"
-  }
-,
-  {
-    "name": "joker",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Minimalist/joker.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Minimalist/joker.jpg",
-    "collections": "Minimalist",
-    "size": "19955",
-    "dimensions": "1358x1920"
-  }
-,
-  {
-    "name": "cowboy",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Minimalist/cowboy.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Minimalist/cowboy.jpg",
-    "collections": "Minimalist",
-    "size": "30219",
-    "dimensions": "1357x1920"
-  }
-,
-  {
-    "name": "minimalist_google",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Minimalist/minimalist_google.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Minimalist/minimalist_google.png",
-    "collections": "Minimalist",
-    "size": "16426",
-    "dimensions": "1080x2000"
-  }
-,
-  {
-    "name": "cat",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Minimalist/cat.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Minimalist/cat.png",
-    "collections": "Minimalist",
-    "size": "27806",
-    "dimensions": "1080x2376"
-  }
-,
-  {
-    "name": "cat_3",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Minimalist/cat_3.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Minimalist/cat_3.jpg",
-    "collections": "Minimalist",
-    "size": "31300",
-    "dimensions": "1080x1920"
-  }
-,
-  {
-    "name": "rounded_simple_blue",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Minimalist/rounded_simple_blue.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Minimalist/rounded_simple_blue.jpg",
-    "collections": "Minimalist",
-    "size": "30479",
-    "dimensions": "1600x2844"
-  }
-,
-  {
-    "name": "skull_king_happy",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Light/skull_king_happy.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Light/skull_king_happy.png",
+    "name": "jet_plane",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Light/jet_plane.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Light/jet_plane.png",
     "collections": "Light",
-    "size": "215899",
-    "dimensions": "2000x4400"
+    "size": "2043591",
+    "dimensions": "1920x3840"
   }
 ,
   {
-    "name": "reader_book",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Light/reader_book.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Light/reader_book.png",
+    "name": "music",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Light/music.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Light/music.png",
     "collections": "Light",
-    "size": "1097212",
-    "dimensions": "1920x4150"
+    "size": "279150",
+    "dimensions": "1370x1920"
   }
 ,
   {
-    "name": "thankful",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Light/thankful.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Light/thankful.jpg",
+    "name": "figure_walking",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Light/figure_walking.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Light/figure_walking.png",
     "collections": "Light",
-    "size": "200412",
-    "dimensions": "1484x1920"
-  }
-,
-  {
-    "name": "sport_car_bw",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Light/sport_car_bw.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Light/sport_car_bw.png",
-    "collections": "Light",
-    "size": "380583",
-    "dimensions": "2200x4800"
-  }
-,
-  {
-    "name": "seagull",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Light/seagull.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Light/seagull.jpg",
-    "collections": "Light",
-    "size": "108453",
-    "dimensions": "1371x1920"
-  }
-,
-  {
-    "name": "eye_blue",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Light/eye_blue.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Light/eye_blue.png",
-    "collections": "Light",
-    "size": "839670",
-    "dimensions": "1300x2311"
+    "size": "1901510",
+    "dimensions": "2000x4574"
   }
 ,
   {
@@ -549,12 +252,12 @@
   }
 ,
   {
-    "name": "jet_plane",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Light/jet_plane.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Light/jet_plane.png",
+    "name": "eye_chart",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Light/eye_chart.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Light/eye_chart.png",
     "collections": "Light",
-    "size": "2043591",
-    "dimensions": "1920x3840"
+    "size": "32665",
+    "dimensions": "1044x1920"
   }
 ,
   {
@@ -576,39 +279,21 @@
   }
 ,
   {
-    "name": "graffiti_man",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Light/graffiti_man.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Light/graffiti_man.png",
+    "name": "hands_gb",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Light/hands_gb.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Light/hands_gb.png",
     "collections": "Light",
-    "size": "901870",
-    "dimensions": "1446x3150"
+    "size": "2119434",
+    "dimensions": "2200x4563"
   }
 ,
   {
-    "name": "gamer",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Light/gamer.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Light/gamer.png",
+    "name": "skull_king_happy",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Light/skull_king_happy.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Light/skull_king_happy.png",
     "collections": "Light",
-    "size": "17255",
-    "dimensions": "1080x2376"
-  }
-,
-  {
-    "name": "eye_chart",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Light/eye_chart.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Light/eye_chart.png",
-    "collections": "Light",
-    "size": "32665",
-    "dimensions": "1044x1920"
-  }
-,
-  {
-    "name": "music",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Light/music.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Light/music.png",
-    "collections": "Light",
-    "size": "279150",
-    "dimensions": "1370x1920"
+    "size": "215899",
+    "dimensions": "2000x4400"
   }
 ,
   {
@@ -621,12 +306,12 @@
   }
 ,
   {
-    "name": "anime_bw",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Light/anime_bw.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Light/anime_bw.png",
+    "name": "graffiti_man",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Light/graffiti_man.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Light/graffiti_man.png",
     "collections": "Light",
-    "size": "365867",
-    "dimensions": "1477x3250"
+    "size": "901870",
+    "dimensions": "1446x3150"
   }
 ,
   {
@@ -639,6 +324,15 @@
   }
 ,
   {
+    "name": "anime_bw",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Light/anime_bw.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Light/anime_bw.png",
+    "collections": "Light",
+    "size": "365867",
+    "dimensions": "1477x3250"
+  }
+,
+  {
     "name": "lost_in_space",
     "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Light/lost_in_space.png",
     "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Light/lost_in_space.png",
@@ -648,975 +342,318 @@
   }
 ,
   {
-    "name": "grunge_moon_man",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/grunge_moon_man.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/grunge_moon_man.jpg",
-    "collections": "Latest",
-    "size": "2830523",
-    "dimensions": "3680x8080"
-  }
-,
-  {
-    "name": "cybord_bw",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/cybord_bw.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/cybord_bw.jpg",
-    "collections": "Latest",
-    "size": "251094",
-    "dimensions": "1840x4040"
-  }
-,
-  {
-    "name": "little_lion",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/little_lion.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/little_lion.png",
-    "collections": "Latest",
-    "size": "2616890",
-    "dimensions": "1920x3840"
-  }
-,
-  {
-    "name": "ecliptic_vintage",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/ecliptic_vintage.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/ecliptic_vintage.png",
-    "collections": "Latest",
-    "size": "836152",
-    "dimensions": "1156x2712"
-  }
-,
-  {
-    "name": "batman_s_son",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/batman_s_son.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/batman_s_son.png",
-    "collections": "Latest",
-    "size": "2108948",
-    "dimensions": "1920x3840"
-  }
-,
-  {
-    "name": "halloween_fantom",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/halloween_fantom.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/halloween_fantom.png",
-    "collections": "Latest",
-    "size": "372762",
-    "dimensions": "1920x4200"
-  }
-,
-  {
-    "name": "skull_king_happy",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/skull_king_happy.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/skull_king_happy.png",
-    "collections": "Latest",
-    "size": "215899",
-    "dimensions": "2000x4400"
-  }
-,
-  {
-    "name": "iron_man",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/iron_man.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/iron_man.png",
-    "collections": "Latest",
-    "size": "2427567",
-    "dimensions": "1920x3840"
-  }
-,
-  {
-    "name": "tiger_bengale",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/tiger_bengale.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/tiger_bengale.jpg",
-    "collections": "Latest",
-    "size": "661358",
-    "dimensions": "1840x4040"
-  }
-,
-  {
-    "name": "horse_neon",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/horse_neon.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/horse_neon.jpg",
-    "collections": "Latest",
-    "size": "864387",
-    "dimensions": "4080x7280"
+    "name": "gamer",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Light/gamer.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Light/gamer.png",
+    "collections": "Light",
+    "size": "17255",
+    "dimensions": "1080x2376"
   }
 ,
   {
     "name": "reader_book",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/reader_book.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/reader_book.png",
-    "collections": "Latest",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Light/reader_book.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Light/reader_book.png",
+    "collections": "Light",
     "size": "1097212",
     "dimensions": "1920x4150"
   }
 ,
   {
-    "name": "bear_automn",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/bear_automn.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/bear_automn.png",
-    "collections": "Latest",
-    "size": "2679628",
-    "dimensions": "1920x3840"
+    "name": "lioness_bw",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Light/lioness_bw.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Light/lioness_bw.png",
+    "collections": "Light",
+    "size": "235559",
+    "dimensions": "1276x2650"
   }
 ,
   {
-    "name": "kitsune_wolf",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/kitsune_wolf.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/kitsune_wolf.png",
-    "collections": "Latest",
-    "size": "1614393",
-    "dimensions": "1920x3840"
+    "name": "eye_blue",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Light/eye_blue.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Light/eye_blue.png",
+    "collections": "Light",
+    "size": "839670",
+    "dimensions": "1300x2311"
+  }
+,
+  {
+    "name": "seagull",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Light/seagull.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Light/seagull.jpg",
+    "collections": "Light",
+    "size": "108453",
+    "dimensions": "1371x1920"
+  }
+,
+  {
+    "name": "thankful",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Light/thankful.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Light/thankful.jpg",
+    "collections": "Light",
+    "size": "200412",
+    "dimensions": "1484x1920"
   }
 ,
   {
     "name": "sport_car_bw",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/sport_car_bw.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/sport_car_bw.png",
-    "collections": "Latest",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Light/sport_car_bw.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Light/sport_car_bw.png",
+    "collections": "Light",
     "size": "380583",
     "dimensions": "2200x4800"
   }
 ,
   {
-    "name": "woman_in_the_jungle",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/woman_in_the_jungle.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/woman_in_the_jungle.jpg",
+    "name": "figure_walking",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/figure_walking.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/figure_walking.png",
     "collections": "Latest",
-    "size": "597665",
-    "dimensions": "2208x4848"
+    "size": "1901510",
+    "dimensions": "2000x4574"
   }
 ,
   {
-    "name": "meerkat",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/meerkat.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/meerkat.png",
+    "name": "hands_gb",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/hands_gb.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/hands_gb.png",
     "collections": "Latest",
-    "size": "1678169",
-    "dimensions": "1920x3840"
+    "size": "2119434",
+    "dimensions": "2200x4563"
   }
 ,
   {
-    "name": "beach_coast",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/beach_coast.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/beach_coast.jpg",
+    "name": "coffee_explosing",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/coffee_explosing.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/coffee_explosing.png",
     "collections": "Latest",
-    "size": "614050",
-    "dimensions": "3488x6144"
+    "size": "1592199",
+    "dimensions": "1688x3200"
   }
 ,
   {
-    "name": "cloudy_paradise",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/cloudy_paradise.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/cloudy_paradise.png",
+    "name": "vintage_portrait",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/vintage_portrait.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/vintage_portrait.png",
     "collections": "Latest",
-    "size": "2773462",
-    "dimensions": "1920x3840"
+    "size": "307790",
+    "dimensions": "1280x2700"
   }
 ,
   {
-    "name": "black_rose",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/black_rose.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/black_rose.jpg",
+    "name": "lioness_bw",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/lioness_bw.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/lioness_bw.png",
     "collections": "Latest",
-    "size": "442145",
-    "dimensions": "2134x4267"
+    "size": "235559",
+    "dimensions": "1276x2650"
   }
 ,
   {
-    "name": "little_elephant",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/little_elephant.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/little_elephant.png",
+    "name": "mouth",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/mouth.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/mouth.png",
     "collections": "Latest",
-    "size": "2836957",
-    "dimensions": "1920x3840"
+    "size": "791682",
+    "dimensions": "1281x2600"
   }
 ,
   {
-    "name": "river",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/river.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/river.jpg",
+    "name": "black_cards",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/black_cards.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/black_cards.png",
     "collections": "Latest",
-    "size": "984682",
-    "dimensions": "3072x6144"
+    "size": "252895",
+    "dimensions": "1280x2560"
   }
 ,
   {
-    "name": "jet_plane",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/jet_plane.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/jet_plane.png",
-    "collections": "Latest",
-    "size": "2043591",
-    "dimensions": "1920x3840"
+    "name": "kiwi",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Dark/kiwi.jpeg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Dark/kiwi.jpeg",
+    "collections": "Dark",
+    "size": "247299",
+    "dimensions": "3301x4952"
   }
 ,
   {
-    "name": "3d_effect",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/3d_effect.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/3d_effect.jpg",
-    "collections": "Latest",
-    "size": "6230162",
-    "dimensions": "4416x9696"
+    "name": "heart",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Dark/heart.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Dark/heart.jpg",
+    "collections": "Dark",
+    "size": "110983",
+    "dimensions": "1286x1920"
   }
 ,
   {
-    "name": "grunge_face_woman",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/grunge_face_woman.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/grunge_face_woman.png",
-    "collections": "Latest",
-    "size": "2600513",
-    "dimensions": "1920x3840"
+    "name": "batman",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Dark/batman.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Dark/batman.jpg",
+    "collections": "Dark",
+    "size": "22663",
+    "dimensions": "1357x1920"
   }
 ,
   {
-    "name": "manga",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/manga.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/manga.png",
-    "collections": "Latest",
-    "size": "4109301",
-    "dimensions": "2500x4449"
+    "name": "underwater",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Dark/underwater.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Dark/underwater.jpg",
+    "collections": "Dark",
+    "size": "1037340",
+    "dimensions": "3177x4449"
   }
 ,
   {
-    "name": "tiger_grunge",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/tiger_grunge.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/tiger_grunge.png",
-    "collections": "Latest",
-    "size": "5480313",
-    "dimensions": "2448x5000"
+    "name": "harley_quinn_1",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Dark/harley_quinn_1.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Dark/harley_quinn_1.png",
+    "collections": "Dark",
+    "size": "340623",
+    "dimensions": "1080x1920"
   }
 ,
   {
-    "name": "black_cat_head",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/black_cat_head.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/black_cat_head.jpg",
-    "collections": "Latest",
-    "size": "1552948",
-    "dimensions": "3680x8080"
+    "name": "harley_quinn_3",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Dark/harley_quinn_3.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Dark/harley_quinn_3.jpg",
+    "collections": "Dark",
+    "size": "108181",
+    "dimensions": "1920x2877"
   }
 ,
   {
-    "name": "ecliptic_pruple",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/ecliptic_pruple.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/ecliptic_pruple.jpg",
-    "collections": "Latest",
-    "size": "446689",
-    "dimensions": "1084x2712"
+    "name": "black_army_diamond",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Dark/black_army_diamond.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Dark/black_army_diamond.png",
+    "collections": "Dark",
+    "size": "534875",
+    "dimensions": "1080x2142"
   }
 ,
   {
-    "name": "moon_brillant",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/moon_brillant.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/moon_brillant.png",
-    "collections": "Latest",
-    "size": "2768642",
-    "dimensions": "1920x3840"
+    "name": "moon_bw",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Dark/moon_bw.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Dark/moon_bw.png",
+    "collections": "Dark",
+    "size": "945490",
+    "dimensions": "3987x5981"
   }
 ,
   {
-    "name": "firework",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/firework.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/firework.png",
-    "collections": "Latest",
-    "size": "1169820",
-    "dimensions": "1752x3072"
+    "name": "geek",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Dark/geek.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Dark/geek.jpg",
+    "collections": "Dark",
+    "size": "94347",
+    "dimensions": "1300x2200"
   }
 ,
   {
-    "name": "woman_in_the_flowers",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/woman_in_the_flowers.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/woman_in_the_flowers.jpg",
-    "collections": "Latest",
-    "size": "429875",
-    "dimensions": "2208x4848"
+    "name": "ruby",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Dark/ruby.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Dark/ruby.png",
+    "collections": "Dark",
+    "size": "100681",
+    "dimensions": "1105x1700"
   }
 ,
   {
-    "name": "graffiti_man",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/graffiti_man.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/graffiti_man.png",
-    "collections": "Latest",
-    "size": "901870",
-    "dimensions": "1446x3150"
-  }
-,
-  {
-    "name": "cute_E_T",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/cute_E_T.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/cute_E_T.png",
-    "collections": "Latest",
-    "size": "44129",
-    "dimensions": "1280x2780"
-  }
-,
-  {
-    "name": "puzzle",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/puzzle.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/puzzle.jpg",
-    "collections": "Latest",
-    "size": "1167336",
-    "dimensions": "1840x4040"
-  }
-,
-  {
-    "name": "rounded_flowers",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/rounded_flowers.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/rounded_flowers.png",
-    "collections": "Latest",
-    "size": "1560644",
-    "dimensions": "1920x3840"
-  }
-,
-  {
-    "name": "little_red_riding_hood",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/little_red_riding_hood.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/little_red_riding_hood.png",
-    "collections": "Latest",
-    "size": "1914603",
-    "dimensions": "1920x3840"
-  }
-,
-  {
-    "name": "fake_joker",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/fake_joker.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/fake_joker.png",
-    "collections": "Latest",
-    "size": "1614707",
-    "dimensions": "1920x3840"
-  }
-,
-  {
-    "name": "in_love_2",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/in_love_2.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/in_love_2.jpg",
-    "collections": "Latest",
-    "size": "585724",
-    "dimensions": "1840x4040"
-  }
-,
-  {
-    "name": "wolf_fire",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/wolf_fire.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/wolf_fire.jpg",
-    "collections": "Latest",
-    "size": "909597",
-    "dimensions": "2448x4368"
-  }
-,
-  {
-    "name": "at_work",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/at_work.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/at_work.png",
-    "collections": "Latest",
-    "size": "2018221",
-    "dimensions": "1920x3840"
-  }
-,
-  {
-    "name": "my_best_friend",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/my_best_friend.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/my_best_friend.png",
-    "collections": "Latest",
-    "size": "35471",
-    "dimensions": "1280x2800"
-  }
-,
-  {
-    "name": "pink_snake",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/pink_snake.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/pink_snake.png",
-    "collections": "Latest",
-    "size": "2136582",
-    "dimensions": "1920x3840"
-  }
-,
-  {
-    "name": "mythic_dragon",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/mythic_dragon.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/mythic_dragon.png",
-    "collections": "Latest",
-    "size": "2631217",
-    "dimensions": "1536x3136"
-  }
-,
-  {
-    "name": "dangerous_snake",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/dangerous_snake.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/dangerous_snake.jpg",
-    "collections": "Latest",
-    "size": "746901",
-    "dimensions": "3362x6000"
-  }
-,
-  {
-    "name": "butterfly_red",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/butterfly_red.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/butterfly_red.jpg",
-    "collections": "Latest",
-    "size": "5210173",
-    "dimensions": "4416x9696"
-  }
-,
-  {
-    "name": "she_walks",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/she_walks.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/she_walks.png",
-    "collections": "Latest",
-    "size": "2341746",
-    "dimensions": "1920x3840"
-  }
-,
-  {
-    "name": "anime_bw",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/anime_bw.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/anime_bw.png",
-    "collections": "Latest",
-    "size": "365867",
-    "dimensions": "1477x3250"
-  }
-,
-  {
-    "name": "ecliptic_original",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/ecliptic_original.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/ecliptic_original.jpg",
-    "collections": "Latest",
-    "size": "622744",
-    "dimensions": "1220x2418"
+    "name": "stony_fuschia",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Dark/stony_fuschia.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Dark/stony_fuschia.png",
+    "collections": "Dark",
+    "size": "516733",
+    "dimensions": "1300x2383"
   }
 ,
   {
     "name": "red_light",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/red_light.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/red_light.png",
-    "collections": "Latest",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Dark/red_light.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Dark/red_light.png",
+    "collections": "Dark",
     "size": "278968",
     "dimensions": "1472x3296"
   }
 ,
   {
-    "name": "crow_at_night",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/crow_at_night.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/crow_at_night.jpg",
-    "collections": "Latest",
-    "size": "1976207",
-    "dimensions": "3680x8080"
+    "name": "bike",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Dark/bike.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Dark/bike.jpg",
+    "collections": "Dark",
+    "size": "29246",
+    "dimensions": "1400x2100"
   }
 ,
   {
-    "name": "penguins",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/penguins.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/penguins.png",
-    "collections": "Latest",
-    "size": "1967987",
-    "dimensions": "1920x3840"
-  }
-,
-  {
-    "name": "red_face",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/red_face.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/red_face.jpg",
-    "collections": "Latest",
-    "size": "234135",
-    "dimensions": "2208x4848"
-  }
-,
-  {
-    "name": "dark_enemy",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/dark_enemy.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/dark_enemy.png",
-    "collections": "Latest",
-    "size": "2332116",
-    "dimensions": "1920x3840"
-  }
-,
-  {
-    "name": "flamingo",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/flamingo.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/flamingo.png",
-    "collections": "Latest",
-    "size": "2383955",
-    "dimensions": "1920x3840"
-  }
-,
-  {
-    "name": "speed_car",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/speed_car.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/speed_car.png",
-    "collections": "Latest",
-    "size": "3246267",
-    "dimensions": "2160x4320"
-  }
-,
-  {
-    "name": "in_love_3",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/in_love_3.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/in_love_3.jpg",
-    "collections": "Latest",
-    "size": "318592",
-    "dimensions": "1840x4040"
-  }
-,
-  {
-    "name": "goth_dog",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/goth_dog.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/goth_dog.jpg",
-    "collections": "Latest",
-    "size": "304788",
-    "dimensions": "2143x3500"
-  }
-,
-  {
-    "name": "in_love",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/in_love.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/in_love.png",
-    "collections": "Latest",
-    "size": "2558435",
-    "dimensions": "1920x3840"
-  }
-,
-  {
-    "name": "astronaut",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/astronaut.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/astronaut.png",
-    "collections": "Latest",
-    "size": "2100413",
-    "dimensions": "2100x4550"
-  }
-,
-  {
-    "name": "im_alright",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Latest/im_alright.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Latest/im_alright.jpg",
-    "collections": "Latest",
-    "size": "481300",
-    "dimensions": "1840x4040"
-  }
-,
-  {
-    "name": "toy_2",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/toy_2.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/toy_2.png",
-    "collections": "Miscellaneous",
-    "size": "415197",
-    "dimensions": "1500x2700"
-  }
-,
-  {
-    "name": "cybord_bw",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/cybord_bw.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/cybord_bw.jpg",
-    "collections": "Miscellaneous",
-    "size": "251094",
-    "dimensions": "1840x4040"
-  }
-,
-  {
-    "name": "ecliptic_vintage",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/ecliptic_vintage.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/ecliptic_vintage.png",
-    "collections": "Miscellaneous",
-    "size": "836152",
-    "dimensions": "1156x2712"
-  }
-,
-  {
-    "name": "android_o",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/android_o.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/android_o.jpg",
-    "collections": "Miscellaneous",
-    "size": "78366",
-    "dimensions": "1200x2200"
-  }
-,
-  {
-    "name": "gothic",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/gothic.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/gothic.png",
-    "collections": "Miscellaneous",
-    "size": "240422",
+    "name": "triangles",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Dark/triangles.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Dark/triangles.png",
+    "collections": "Dark",
+    "size": "1128968",
     "dimensions": "1080x1920"
   }
 ,
   {
-    "name": "music_man",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/music_man.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/music_man.jpg",
-    "collections": "Miscellaneous",
-    "size": "206701",
+    "name": "violin",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Dark/violin.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Dark/violin.jpg",
+    "collections": "Dark",
+    "size": "106356",
+    "dimensions": "1463x1920"
+  }
+,
+  {
+    "name": "orange_tree",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Dark/orange_tree.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Dark/orange_tree.png",
+    "collections": "Dark",
+    "size": "836068",
+    "dimensions": "1076x1920"
+  }
+,
+  {
+    "name": "halloween_fantom",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Dark/halloween_fantom.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Dark/halloween_fantom.png",
+    "collections": "Dark",
+    "size": "372762",
+    "dimensions": "1920x4200"
+  }
+,
+  {
+    "name": "leg",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Dark/leg.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Dark/leg.png",
+    "collections": "Dark",
+    "size": "236274",
+    "dimensions": "964x1920"
+  }
+,
+  {
+    "name": "dark_decoration",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Dark/dark_decoration.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Dark/dark_decoration.png",
+    "collections": "Dark",
+    "size": "4775929",
+    "dimensions": "1600x2844"
+  }
+,
+  {
+    "name": "black_cards",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Dark/black_cards.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Dark/black_cards.png",
+    "collections": "Dark",
+    "size": "252895",
+    "dimensions": "1280x2560"
+  }
+,
+  {
+    "name": "venice",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Nature/venice.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Nature/venice.jpg",
+    "collections": "Nature",
+    "size": "838786",
     "dimensions": "1280x1920"
-  }
-,
-  {
-    "name": "clock_cuckoo",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/clock_cuckoo.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/clock_cuckoo.png",
-    "collections": "Miscellaneous",
-    "size": "1596371",
-    "dimensions": "1200x1920"
-  }
-,
-  {
-    "name": "blue_pink_sax",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/blue_pink_sax.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/blue_pink_sax.jpg",
-    "collections": "Miscellaneous",
-    "size": "202038",
-    "dimensions": "1000x1344"
-  }
-,
-  {
-    "name": "baseball",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/baseball.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/baseball.jpg",
-    "collections": "Miscellaneous",
-    "size": "2739458",
-    "dimensions": "6144x9984"
-  }
-,
-  {
-    "name": "woman_in_the_jungle",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/woman_in_the_jungle.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/woman_in_the_jungle.jpg",
-    "collections": "Miscellaneous",
-    "size": "597665",
-    "dimensions": "2208x4848"
-  }
-,
-  {
-    "name": "macaroon",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/macaroon.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/macaroon.png",
-    "collections": "Miscellaneous",
-    "size": "906996",
-    "dimensions": "1080x1920"
-  }
-,
-  {
-    "name": "small_fantom",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/small_fantom.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/small_fantom.jpg",
-    "collections": "Miscellaneous",
-    "size": "125634",
-    "dimensions": "1280x1920"
-  }
-,
-  {
-    "name": "portrait_woman_2",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/portrait_woman_2.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/portrait_woman_2.jpg",
-    "collections": "Miscellaneous",
-    "size": "1237498",
-    "dimensions": "3500x5250"
-  }
-,
-  {
-    "name": "grunge_face_woman",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/grunge_face_woman.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/grunge_face_woman.png",
-    "collections": "Miscellaneous",
-    "size": "2600513",
-    "dimensions": "1920x3840"
-  }
-,
-  {
-    "name": "manga",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/manga.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/manga.png",
-    "collections": "Miscellaneous",
-    "size": "4109301",
-    "dimensions": "2500x4449"
-  }
-,
-  {
-    "name": "ecliptic_pruple",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/ecliptic_pruple.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/ecliptic_pruple.jpg",
-    "collections": "Miscellaneous",
-    "size": "446689",
-    "dimensions": "1084x2712"
-  }
-,
-  {
-    "name": "toy",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/toy.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/toy.png",
-    "collections": "Miscellaneous",
-    "size": "712978",
-    "dimensions": "2000x4000"
-  }
-,
-  {
-    "name": "woman_in_the_flowers",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/woman_in_the_flowers.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/woman_in_the_flowers.jpg",
-    "collections": "Miscellaneous",
-    "size": "429875",
-    "dimensions": "2208x4848"
-  }
-,
-  {
-    "name": "woman_green_hairs",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/woman_green_hairs.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/woman_green_hairs.jpg",
-    "collections": "Miscellaneous",
-    "size": "295132",
-    "dimensions": "2001x3002"
-  }
-,
-  {
-    "name": "arrows",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/arrows.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/arrows.png",
-    "collections": "Miscellaneous",
-    "size": "40747",
-    "dimensions": "1280x1920"
-  }
-,
-  {
-    "name": "little_red_riding_hood",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/little_red_riding_hood.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/little_red_riding_hood.png",
-    "collections": "Miscellaneous",
-    "size": "1914603",
-    "dimensions": "1920x3840"
-  }
-,
-  {
-    "name": "music_fan",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/music_fan.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/music_fan.jpg",
-    "collections": "Miscellaneous",
-    "size": "606237",
-    "dimensions": "2300x4088"
-  }
-,
-  {
-    "name": "no_stress",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/no_stress.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/no_stress.jpg",
-    "collections": "Miscellaneous",
-    "size": "669587",
-    "dimensions": "2300x4088"
-  }
-,
-  {
-    "name": "in_love_2",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/in_love_2.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/in_love_2.jpg",
-    "collections": "Miscellaneous",
-    "size": "585724",
-    "dimensions": "1840x4040"
-  }
-,
-  {
-    "name": "at_work",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/at_work.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/at_work.png",
-    "collections": "Miscellaneous",
-    "size": "2018221",
-    "dimensions": "1920x3840"
-  }
-,
-  {
-    "name": "woman_on_fire",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/woman_on_fire.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/woman_on_fire.jpg",
-    "collections": "Miscellaneous",
-    "size": "256533",
-    "dimensions": "1280x1920"
-  }
-,
-  {
-    "name": "easter",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/easter.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/easter.png",
-    "collections": "Miscellaneous",
-    "size": "106457",
-    "dimensions": "1080x2376"
-  }
-,
-  {
-    "name": "she_walks",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/she_walks.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/she_walks.png",
-    "collections": "Miscellaneous",
-    "size": "2341746",
-    "dimensions": "1920x3840"
-  }
-,
-  {
-    "name": "warrior",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/warrior.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/warrior.png",
-    "collections": "Miscellaneous",
-    "size": "821619",
-    "dimensions": "1280x1920"
-  }
-,
-  {
-    "name": "ecliptic_original",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/ecliptic_original.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/ecliptic_original.jpg",
-    "collections": "Miscellaneous",
-    "size": "622744",
-    "dimensions": "1220x2418"
-  }
-,
-  {
-    "name": "azul_stone",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/azul_stone.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/azul_stone.png",
-    "collections": "Miscellaneous",
-    "size": "867411",
-    "dimensions": "1440x2560"
-  }
-,
-  {
-    "name": "quote",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/quote.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/quote.jpg",
-    "collections": "Miscellaneous",
-    "size": "163956",
-    "dimensions": "1300x2000"
-  }
-,
-  {
-    "name": "gamer_forever",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/gamer_forever.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/gamer_forever.jpg",
-    "collections": "Miscellaneous",
-    "size": "257836",
-    "dimensions": "1987x3532"
-  }
-,
-  {
-    "name": "samourai",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/samourai.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/samourai.jpg",
-    "collections": "Miscellaneous",
-    "size": "2407803",
-    "dimensions": "3072x6144"
-  }
-,
-  {
-    "name": "drink",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/drink.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/drink.png",
-    "collections": "Miscellaneous",
-    "size": "98363",
-    "dimensions": "1080x2376"
-  }
-,
-  {
-    "name": "cute_green",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/cute_green.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/cute_green.png",
-    "collections": "Miscellaneous",
-    "size": "192891",
-    "dimensions": "1271x1920"
-  }
-,
-  {
-    "name": "red_face",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/red_face.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/red_face.jpg",
-    "collections": "Miscellaneous",
-    "size": "234135",
-    "dimensions": "2208x4848"
-  }
-,
-  {
-    "name": "speed_car",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/speed_car.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/speed_car.png",
-    "collections": "Miscellaneous",
-    "size": "3246267",
-    "dimensions": "2160x4320"
-  }
-,
-  {
-    "name": "in_love_3",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/in_love_3.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/in_love_3.jpg",
-    "collections": "Miscellaneous",
-    "size": "318592",
-    "dimensions": "1840x4040"
-  }
-,
-  {
-    "name": "in_love",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/in_love.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/in_love.png",
-    "collections": "Miscellaneous",
-    "size": "2558435",
-    "dimensions": "1920x3840"
-  }
-,
-  {
-    "name": "astronaut",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/astronaut.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/astronaut.png",
-    "collections": "Miscellaneous",
-    "size": "2100413",
-    "dimensions": "2100x4550"
-  }
-,
-  {
-    "name": "nature_mountain",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Nature/nature_mountain.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Nature/nature_mountain.png",
-    "collections": "Nature",
-    "size": "413850",
-    "dimensions": "730x1280"
-  }
-,
-  {
-    "name": "hot_air_ballons",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Nature/hot_air_ballons.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Nature/hot_air_ballons.jpg",
-    "collections": "Nature",
-    "size": "184939",
-    "dimensions": "1351x1920"
-  }
-,
-  {
-    "name": "green_mountains",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Nature/green_mountains.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Nature/green_mountains.jpg",
-    "collections": "Nature",
-    "size": "196133",
-    "dimensions": "1097x1920"
-  }
-,
-  {
-    "name": "purple_flower",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Nature/purple_flower.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Nature/purple_flower.jpg",
-    "collections": "Nature",
-    "size": "203580",
-    "dimensions": "1280x1920"
-  }
-,
-  {
-    "name": "mystery",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Nature/mystery.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Nature/mystery.jpg",
-    "collections": "Nature",
-    "size": "539625",
-    "dimensions": "1485x1920"
-  }
-,
-  {
-    "name": "moon_beach",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Nature/moon_beach.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Nature/moon_beach.png",
-    "collections": "Nature",
-    "size": "2567684",
-    "dimensions": "1920x3840"
-  }
-,
-  {
-    "name": "purple_osheden_2",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Nature/purple_osheden_2.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Nature/purple_osheden_2.png",
-    "collections": "Nature",
-    "size": "773537",
-    "dimensions": "1080x2160"
   }
 ,
   {
@@ -1629,11 +666,101 @@
   }
 ,
   {
+    "name": "hot_air_ballons",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Nature/hot_air_ballons.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Nature/hot_air_ballons.jpg",
+    "collections": "Nature",
+    "size": "184939",
+    "dimensions": "1351x1920"
+  }
+,
+  {
+    "name": "essential",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Nature/essential.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Nature/essential.jpg",
+    "collections": "Nature",
+    "size": "322692",
+    "dimensions": "1062x1594"
+  }
+,
+  {
     "name": "cloudy_paradise",
     "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Nature/cloudy_paradise.png",
     "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Nature/cloudy_paradise.png",
     "collections": "Nature",
     "size": "2773462",
+    "dimensions": "1920x3840"
+  }
+,
+  {
+    "name": "butterfly_red",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Nature/butterfly_red.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Nature/butterfly_red.jpg",
+    "collections": "Nature",
+    "size": "5210173",
+    "dimensions": "4416x9696"
+  }
+,
+  {
+    "name": "green_mountains",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Nature/green_mountains.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Nature/green_mountains.jpg",
+    "collections": "Nature",
+    "size": "196133",
+    "dimensions": "1097x1920"
+  }
+,
+  {
+    "name": "rounded_flowers",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Nature/rounded_flowers.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Nature/rounded_flowers.png",
+    "collections": "Nature",
+    "size": "1560644",
+    "dimensions": "1920x3840"
+  }
+,
+  {
+    "name": "fish",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Nature/fish.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Nature/fish.jpg",
+    "collections": "Nature",
+    "size": "292499",
+    "dimensions": "1286x1920"
+  }
+,
+  {
+    "name": "purple_osheden_2",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Nature/purple_osheden_2.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Nature/purple_osheden_2.png",
+    "collections": "Nature",
+    "size": "773537",
+    "dimensions": "1080x2160"
+  }
+,
+  {
+    "name": "nature_mountain",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Nature/nature_mountain.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Nature/nature_mountain.png",
+    "collections": "Nature",
+    "size": "413850",
+    "dimensions": "730x1280"
+  }
+,
+  {
+    "name": "bridge",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Nature/bridge.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Nature/bridge.jpg",
+    "collections": "Nature",
+    "size": "277143",
+    "dimensions": "1285x1920"
+  }
+,
+  {
+    "name": "moon_beach",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Nature/moon_beach.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Nature/moon_beach.png",
+    "collections": "Nature",
+    "size": "2567684",
     "dimensions": "1920x3840"
   }
 ,
@@ -1647,30 +774,12 @@
   }
 ,
   {
-    "name": "fish",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Nature/fish.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Nature/fish.jpg",
+    "name": "moutain_trek",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Nature/moutain_trek.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Nature/moutain_trek.jpg",
     "collections": "Nature",
-    "size": "292499",
-    "dimensions": "1286x1920"
-  }
-,
-  {
-    "name": "river",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Nature/river.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Nature/river.jpg",
-    "collections": "Nature",
-    "size": "984682",
-    "dimensions": "3072x6144"
-  }
-,
-  {
-    "name": "bridge",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Nature/bridge.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Nature/bridge.jpg",
-    "collections": "Nature",
-    "size": "277143",
-    "dimensions": "1285x1920"
+    "size": "157522",
+    "dimensions": "1176x1920"
   }
 ,
   {
@@ -1683,12 +792,12 @@
   }
 ,
   {
-    "name": "firework",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Nature/firework.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Nature/firework.png",
+    "name": "river",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Nature/river.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Nature/river.jpg",
     "collections": "Nature",
-    "size": "1169820",
-    "dimensions": "1752x3072"
+    "size": "984682",
+    "dimensions": "3072x6144"
   }
 ,
   {
@@ -1701,48 +810,30 @@
   }
 ,
   {
-    "name": "rounded_flowers",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Nature/rounded_flowers.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Nature/rounded_flowers.png",
+    "name": "mystery",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Nature/mystery.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Nature/mystery.jpg",
     "collections": "Nature",
-    "size": "1560644",
-    "dimensions": "1920x3840"
+    "size": "539625",
+    "dimensions": "1485x1920"
   }
 ,
   {
-    "name": "venice",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Nature/venice.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Nature/venice.jpg",
+    "name": "firework",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Nature/firework.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Nature/firework.png",
     "collections": "Nature",
-    "size": "838786",
+    "size": "1169820",
+    "dimensions": "1752x3072"
+  }
+,
+  {
+    "name": "purple_flower",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Nature/purple_flower.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Nature/purple_flower.jpg",
+    "collections": "Nature",
+    "size": "203580",
     "dimensions": "1280x1920"
-  }
-,
-  {
-    "name": "essential",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Nature/essential.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Nature/essential.jpg",
-    "collections": "Nature",
-    "size": "322692",
-    "dimensions": "1062x1594"
-  }
-,
-  {
-    "name": "butterfly_red",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Nature/butterfly_red.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Nature/butterfly_red.jpg",
-    "collections": "Nature",
-    "size": "5210173",
-    "dimensions": "4416x9696"
-  }
-,
-  {
-    "name": "moutain_trek",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Nature/moutain_trek.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Nature/moutain_trek.jpg",
-    "collections": "Nature",
-    "size": "157522",
-    "dimensions": "1176x1920"
   }
 ,
   {
@@ -1773,726 +864,6 @@
   }
 ,
   {
-    "name": "dark_decoration",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Dark/dark_decoration.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Dark/dark_decoration.png",
-    "collections": "Dark",
-    "size": "4775929",
-    "dimensions": "1600x2844"
-  }
-,
-  {
-    "name": "batman",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Dark/batman.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Dark/batman.jpg",
-    "collections": "Dark",
-    "size": "22663",
-    "dimensions": "1357x1920"
-  }
-,
-  {
-    "name": "halloween_fantom",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Dark/halloween_fantom.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Dark/halloween_fantom.png",
-    "collections": "Dark",
-    "size": "372762",
-    "dimensions": "1920x4200"
-  }
-,
-  {
-    "name": "triangles",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Dark/triangles.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Dark/triangles.png",
-    "collections": "Dark",
-    "size": "1128968",
-    "dimensions": "1080x1920"
-  }
-,
-  {
-    "name": "bike",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Dark/bike.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Dark/bike.jpg",
-    "collections": "Dark",
-    "size": "29246",
-    "dimensions": "1400x2100"
-  }
-,
-  {
-    "name": "underwater",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Dark/underwater.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Dark/underwater.jpg",
-    "collections": "Dark",
-    "size": "1037340",
-    "dimensions": "3177x4449"
-  }
-,
-  {
-    "name": "harley_quinn_1",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Dark/harley_quinn_1.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Dark/harley_quinn_1.png",
-    "collections": "Dark",
-    "size": "340623",
-    "dimensions": "1080x1920"
-  }
-,
-  {
-    "name": "kiwi",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Dark/kiwi.jpeg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Dark/kiwi.jpeg",
-    "collections": "Dark",
-    "size": "247299",
-    "dimensions": "3301x4952"
-  }
-,
-  {
-    "name": "orange_tree",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Dark/orange_tree.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Dark/orange_tree.png",
-    "collections": "Dark",
-    "size": "836068",
-    "dimensions": "1076x1920"
-  }
-,
-  {
-    "name": "ruby",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Dark/ruby.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Dark/ruby.png",
-    "collections": "Dark",
-    "size": "100681",
-    "dimensions": "1105x1700"
-  }
-,
-  {
-    "name": "stony_fuschia",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Dark/stony_fuschia.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Dark/stony_fuschia.png",
-    "collections": "Dark",
-    "size": "516733",
-    "dimensions": "1300x2383"
-  }
-,
-  {
-    "name": "harley_quinn_3",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Dark/harley_quinn_3.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Dark/harley_quinn_3.jpg",
-    "collections": "Dark",
-    "size": "108181",
-    "dimensions": "1920x2877"
-  }
-,
-  {
-    "name": "moon_bw",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Dark/moon_bw.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Dark/moon_bw.png",
-    "collections": "Dark",
-    "size": "945490",
-    "dimensions": "3987x5981"
-  }
-,
-  {
-    "name": "heart",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Dark/heart.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Dark/heart.jpg",
-    "collections": "Dark",
-    "size": "110983",
-    "dimensions": "1286x1920"
-  }
-,
-  {
-    "name": "red_light",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Dark/red_light.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Dark/red_light.png",
-    "collections": "Dark",
-    "size": "278968",
-    "dimensions": "1472x3296"
-  }
-,
-  {
-    "name": "leg",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Dark/leg.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Dark/leg.png",
-    "collections": "Dark",
-    "size": "236274",
-    "dimensions": "964x1920"
-  }
-,
-  {
-    "name": "black_army_diamond",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Dark/black_army_diamond.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Dark/black_army_diamond.png",
-    "collections": "Dark",
-    "size": "534875",
-    "dimensions": "1080x2142"
-  }
-,
-  {
-    "name": "geek",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Dark/geek.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Dark/geek.jpg",
-    "collections": "Dark",
-    "size": "94347",
-    "dimensions": "1300x2200"
-  }
-,
-  {
-    "name": "violin",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Dark/violin.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Dark/violin.jpg",
-    "collections": "Dark",
-    "size": "106356",
-    "dimensions": "1463x1920"
-  }
-,
-  {
-    "name": "little_lion",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/little_lion.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/little_lion.png",
-    "collections": "Animals",
-    "size": "2616890",
-    "dimensions": "1920x3840"
-  }
-,
-  {
-    "name": "birds",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/birds.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/birds.png",
-    "collections": "Animals",
-    "size": "76485",
-    "dimensions": "1080x2376"
-  }
-,
-  {
-    "name": "tomcat",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/tomcat.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/tomcat.jpg",
-    "collections": "Animals",
-    "size": "183468",
-    "dimensions": "1281x1920"
-  }
-,
-  {
-    "name": "tiger",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/tiger.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/tiger.jpg",
-    "collections": "Animals",
-    "size": "280884",
-    "dimensions": "1536x3072"
-  }
-,
-  {
-    "name": "eye",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/eye.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/eye.jpg",
-    "collections": "Animals",
-    "size": "252856",
-    "dimensions": "1080x1920"
-  }
-,
-  {
-    "name": "tiger_bengale",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/tiger_bengale.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/tiger_bengale.jpg",
-    "collections": "Animals",
-    "size": "661358",
-    "dimensions": "1840x4040"
-  }
-,
-  {
-    "name": "horse_neon",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/horse_neon.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/horse_neon.jpg",
-    "collections": "Animals",
-    "size": "864387",
-    "dimensions": "4080x7280"
-  }
-,
-  {
-    "name": "bear_automn",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/bear_automn.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/bear_automn.png",
-    "collections": "Animals",
-    "size": "2679628",
-    "dimensions": "1920x3840"
-  }
-,
-  {
-    "name": "foxy",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/foxy.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/foxy.jpg",
-    "collections": "Animals",
-    "size": "362937",
-    "dimensions": "2143x3500"
-  }
-,
-  {
-    "name": "kitsune_wolf",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/kitsune_wolf.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/kitsune_wolf.png",
-    "collections": "Animals",
-    "size": "1614393",
-    "dimensions": "1920x3840"
-  }
-,
-  {
-    "name": "raven",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/raven.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/raven.jpg",
-    "collections": "Animals",
-    "size": "111855",
-    "dimensions": "1358x2300"
-  }
-,
-  {
-    "name": "rabits",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/rabits.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/rabits.jpg",
-    "collections": "Animals",
-    "size": "24582",
-    "dimensions": "1200x2100"
-  }
-,
-  {
-    "name": "meerkat",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/meerkat.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/meerkat.png",
-    "collections": "Animals",
-    "size": "1678169",
-    "dimensions": "1920x3840"
-  }
-,
-  {
-    "name": "real_cat",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/real_cat.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/real_cat.png",
-    "collections": "Animals",
-    "size": "673777",
-    "dimensions": "1080x1920"
-  }
-,
-  {
-    "name": "little_elephant",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/little_elephant.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/little_elephant.png",
-    "collections": "Animals",
-    "size": "2836957",
-    "dimensions": "1920x3840"
-  }
-,
-  {
-    "name": "fox",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/fox.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/fox.png",
-    "collections": "Animals",
-    "size": "95903",
-    "dimensions": "1080x2376"
-  }
-,
-  {
-    "name": "black_cat",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/black_cat.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/black_cat.png",
-    "collections": "Animals",
-    "size": "171731",
-    "dimensions": "1440x2560"
-  }
-,
-  {
-    "name": "owl_winter",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/owl_winter.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/owl_winter.jpg",
-    "collections": "Animals",
-    "size": "195530",
-    "dimensions": "1176x1920"
-  }
-,
-  {
-    "name": "girafe_smile",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/girafe_smile.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/girafe_smile.jpg",
-    "collections": "Animals",
-    "size": "232343",
-    "dimensions": "1076x1920"
-  }
-,
-  {
-    "name": "jelly_fish",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/jelly_fish.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/jelly_fish.jpg",
-    "collections": "Animals",
-    "size": "161115",
-    "dimensions": "1280x1920"
-  }
-,
-  {
-    "name": "owl_beauty",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/owl_beauty.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/owl_beauty.jpg",
-    "collections": "Animals",
-    "size": "1042590",
-    "dimensions": "4096x6144"
-  }
-,
-  {
-    "name": "tiger_grunge",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/tiger_grunge.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/tiger_grunge.png",
-    "collections": "Animals",
-    "size": "5480313",
-    "dimensions": "2448x5000"
-  }
-,
-  {
-    "name": "bear_2",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/bear_2.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/bear_2.png",
-    "collections": "Animals",
-    "size": "68321",
-    "dimensions": "1080x2376"
-  }
-,
-  {
-    "name": "black_cat_head",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/black_cat_head.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/black_cat_head.jpg",
-    "collections": "Animals",
-    "size": "1552948",
-    "dimensions": "3680x8080"
-  }
-,
-  {
-    "name": "snake_for_sinfonia",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/snake_for_sinfonia.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/snake_for_sinfonia.png",
-    "collections": "Animals",
-    "size": "2650304",
-    "dimensions": "1920x3840"
-  }
-,
-  {
-    "name": "dragon_fire",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/dragon_fire.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/dragon_fire.jpg",
-    "collections": "Animals",
-    "size": "354157",
-    "dimensions": "1080x1920"
-  }
-,
-  {
-    "name": "wolf_fire",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/wolf_fire.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/wolf_fire.jpg",
-    "collections": "Animals",
-    "size": "909597",
-    "dimensions": "2448x4368"
-  }
-,
-  {
-    "name": "jaguar",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/jaguar.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/jaguar.jpg",
-    "collections": "Animals",
-    "size": "56211",
-    "dimensions": "1358x1920"
-  }
-,
-  {
-    "name": "horse",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/horse.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/horse.jpg",
-    "collections": "Animals",
-    "size": "441545",
-    "dimensions": "1280x1920"
-  }
-,
-  {
-    "name": "falcon_man",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/falcon_man.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/falcon_man.jpg",
-    "collections": "Animals",
-    "size": "1394419",
-    "dimensions": "3500x4500"
-  }
-,
-  {
-    "name": "pink_snake",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/pink_snake.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/pink_snake.png",
-    "collections": "Animals",
-    "size": "2136582",
-    "dimensions": "1920x3840"
-  }
-,
-  {
-    "name": "mythic_dragon",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/mythic_dragon.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/mythic_dragon.png",
-    "collections": "Animals",
-    "size": "2631217",
-    "dimensions": "1536x3136"
-  }
-,
-  {
-    "name": "rabbit",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/rabbit.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/rabbit.png",
-    "collections": "Animals",
-    "size": "61978",
-    "dimensions": "1080x2376"
-  }
-,
-  {
-    "name": "dangerous_snake",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/dangerous_snake.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/dangerous_snake.jpg",
-    "collections": "Animals",
-    "size": "746901",
-    "dimensions": "3362x6000"
-  }
-,
-  {
-    "name": "fox_on_fire",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/fox_on_fire.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/fox_on_fire.png",
-    "collections": "Animals",
-    "size": "2400431",
-    "dimensions": "1920x3840"
-  }
-,
-  {
-    "name": "osheden_christmas",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/osheden_christmas.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/osheden_christmas.png",
-    "collections": "Animals",
-    "size": "68514",
-    "dimensions": "1920x3500"
-  }
-,
-  {
-    "name": "wolf_strong",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/wolf_strong.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/wolf_strong.png",
-    "collections": "Animals",
-    "size": "3272418",
-    "dimensions": "1920x3840"
-  }
-,
-  {
-    "name": "crow",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/crow.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/crow.png",
-    "collections": "Animals",
-    "size": "162984",
-    "dimensions": "1250x1920"
-  }
-,
-  {
-    "name": "fantasy_dragon",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/fantasy_dragon.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/fantasy_dragon.png",
-    "collections": "Animals",
-    "size": "2983155",
-    "dimensions": "2160x3840"
-  }
-,
-  {
-    "name": "raccoon",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/raccoon.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/raccoon.png",
-    "collections": "Animals",
-    "size": "76345",
-    "dimensions": "1080x2376"
-  }
-,
-  {
-    "name": "jellyfish",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/jellyfish.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/jellyfish.png",
-    "collections": "Animals",
-    "size": "577950",
-    "dimensions": "1536x2300"
-  }
-,
-  {
-    "name": "elephant",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/elephant.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/elephant.jpg",
-    "collections": "Animals",
-    "size": "34663",
-    "dimensions": "1357x1920"
-  }
-,
-  {
-    "name": "dragon",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/dragon.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/dragon.jpg",
-    "collections": "Animals",
-    "size": "47549",
-    "dimensions": "1080x1920"
-  }
-,
-  {
-    "name": "penguins",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/penguins.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/penguins.png",
-    "collections": "Animals",
-    "size": "1967987",
-    "dimensions": "1920x3840"
-  }
-,
-  {
-    "name": "snake",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/snake.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/snake.png",
-    "collections": "Animals",
-    "size": "1010074",
-    "dimensions": "1160x1920"
-  }
-,
-  {
-    "name": "rabbit_blur",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/rabbit_blur.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/rabbit_blur.jpg",
-    "collections": "Animals",
-    "size": "267760",
-    "dimensions": "2336x4096"
-  }
-,
-  {
-    "name": "horse_2",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/horse_2.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/horse_2.jpg",
-    "collections": "Animals",
-    "size": "235898",
-    "dimensions": "1252x1920"
-  }
-,
-  {
-    "name": "black_bird",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/black_bird.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/black_bird.jpg",
-    "collections": "Animals",
-    "size": "41696",
-    "dimensions": "1080x1920"
-  }
-,
-  {
-    "name": "flamingo",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/flamingo.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/flamingo.png",
-    "collections": "Animals",
-    "size": "2383955",
-    "dimensions": "1920x3840"
-  }
-,
-  {
-    "name": "bear",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/bear.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/bear.png",
-    "collections": "Animals",
-    "size": "82260",
-    "dimensions": "1080x2376"
-  }
-,
-  {
-    "name": "owl",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/owl.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/owl.jpg",
-    "collections": "Animals",
-    "size": "325932",
-    "dimensions": "2143x3500"
-  }
-,
-  {
-    "name": "fish_pixels",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/fish_pixels.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/fish_pixels.png",
-    "collections": "Animals",
-    "size": "911856",
-    "dimensions": "1076x1920"
-  }
-,
-  {
-    "name": "goth_dog",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/goth_dog.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/goth_dog.jpg",
-    "collections": "Animals",
-    "size": "304788",
-    "dimensions": "2143x3500"
-  }
-,
-  {
-    "name": "fox_2",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/fox_2.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/fox_2.png",
-    "collections": "Animals",
-    "size": "99924",
-    "dimensions": "1080x2376"
-  }
-,
-  {
-    "name": "butterfly",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/butterfly.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/butterfly.jpg",
-    "collections": "Animals",
-    "size": "37238",
-    "dimensions": "1200x1920"
-  }
-,
-  {
-    "name": "im_alright",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/im_alright.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/im_alright.jpg",
-    "collections": "Animals",
-    "size": "481300",
-    "dimensions": "1840x4040"
-  }
-,
-  {
-    "name": "grunge_moon_man",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Abstract/grunge_moon_man.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Abstract/grunge_moon_man.jpg",
-    "collections": "Abstract",
-    "size": "2830523",
-    "dimensions": "3680x8080"
-  }
-,
-  {
-    "name": "abstract_triangles",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Abstract/abstract_triangles.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Abstract/abstract_triangles.jpg",
-    "collections": "Abstract",
-    "size": "160920",
-    "dimensions": "1600x2844"
-  }
-,
-  {
-    "name": "ice",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Abstract/ice.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Abstract/ice.jpg",
-    "collections": "Abstract",
-    "size": "634191",
-    "dimensions": "1080x1920"
-  }
-,
-  {
-    "name": "lines_2",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Abstract/lines_2.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Abstract/lines_2.png",
-    "collections": "Abstract",
-    "size": "1199890",
-    "dimensions": "1600x2844"
-  }
-,
-  {
-    "name": "3d_effect",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Abstract/3d_effect.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Abstract/3d_effect.jpg",
-    "collections": "Abstract",
-    "size": "6230162",
-    "dimensions": "4416x9696"
-  }
-,
-  {
     "name": "squares_multiples",
     "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Abstract/squares_multiples.jpg",
     "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Abstract/squares_multiples.jpg",
@@ -2502,30 +873,21 @@
   }
 ,
   {
-    "name": "abstract_blue_dark",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Abstract/abstract_blue_dark.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Abstract/abstract_blue_dark.png",
-    "collections": "Abstract",
-    "size": "428092",
-    "dimensions": "1080x1920"
-  }
-,
-  {
-    "name": "blue_abstract",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Abstract/blue_abstract.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Abstract/blue_abstract.jpg",
-    "collections": "Abstract",
-    "size": "527560",
-    "dimensions": "1080x1920"
-  }
-,
-  {
     "name": "forest_woman",
     "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Abstract/forest_woman.jpg",
     "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Abstract/forest_woman.jpg",
     "collections": "Abstract",
     "size": "311858",
     "dimensions": "874x1920"
+  }
+,
+  {
+    "name": "plumes",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Abstract/plumes.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Abstract/plumes.png",
+    "collections": "Abstract",
+    "size": "2536056",
+    "dimensions": "1920x3840"
   }
 ,
   {
@@ -2547,11 +909,11 @@
   }
 ,
   {
-    "name": "squared",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Abstract/squared.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Abstract/squared.jpg",
+    "name": "symmetry",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Abstract/symmetry.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Abstract/symmetry.jpg",
     "collections": "Abstract",
-    "size": "199673",
+    "size": "51022",
     "dimensions": "1076x1920"
   }
 ,
@@ -2565,21 +927,12 @@
   }
 ,
   {
-    "name": "puzzle",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Abstract/puzzle.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Abstract/puzzle.jpg",
+    "name": "abstract_blue_dark",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Abstract/abstract_blue_dark.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Abstract/abstract_blue_dark.png",
     "collections": "Abstract",
-    "size": "1167336",
-    "dimensions": "1840x4040"
-  }
-,
-  {
-    "name": "blue_waves",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Abstract/blue_waves.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Abstract/blue_waves.jpg",
-    "collections": "Abstract",
-    "size": "1067851",
-    "dimensions": "3072x5376"
+    "size": "428092",
+    "dimensions": "1080x1920"
   }
 ,
   {
@@ -2592,39 +945,12 @@
   }
 ,
   {
-    "name": "low_poly_grey",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Abstract/low_poly_grey.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Abstract/low_poly_grey.png",
+    "name": "lines_2",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Abstract/lines_2.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Abstract/lines_2.png",
     "collections": "Abstract",
-    "size": "808366",
-    "dimensions": "2000x3000"
-  }
-,
-  {
-    "name": "bubbles",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Abstract/bubbles.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Abstract/bubbles.jpg",
-    "collections": "Abstract",
-    "size": "85496",
-    "dimensions": "1200x2000"
-  }
-,
-  {
-    "name": "abstract_dark",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Abstract/abstract_dark.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Abstract/abstract_dark.png",
-    "collections": "Abstract",
-    "size": "269073",
-    "dimensions": "1080x1920"
-  }
-,
-  {
-    "name": "symmetry",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Abstract/symmetry.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Abstract/symmetry.jpg",
-    "collections": "Abstract",
-    "size": "51022",
-    "dimensions": "1076x1920"
+    "size": "1199890",
+    "dimensions": "1600x2844"
   }
 ,
   {
@@ -2637,6 +963,33 @@
   }
 ,
   {
+    "name": "abstract_dark",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Abstract/abstract_dark.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Abstract/abstract_dark.png",
+    "collections": "Abstract",
+    "size": "269073",
+    "dimensions": "1080x1920"
+  }
+,
+  {
+    "name": "ice",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Abstract/ice.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Abstract/ice.jpg",
+    "collections": "Abstract",
+    "size": "634191",
+    "dimensions": "1080x1920"
+  }
+,
+  {
+    "name": "blue_abstract",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Abstract/blue_abstract.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Abstract/blue_abstract.jpg",
+    "collections": "Abstract",
+    "size": "527560",
+    "dimensions": "1080x1920"
+  }
+,
+  {
     "name": "smoke_2",
     "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Abstract/smoke_2.jpg",
     "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Abstract/smoke_2.jpg",
@@ -2646,246 +999,462 @@
   }
 ,
   {
-    "name": "plumes",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Abstract/plumes.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Abstract/plumes.png",
+    "name": "bubbles",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Abstract/bubbles.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Abstract/bubbles.jpg",
     "collections": "Abstract",
-    "size": "2536056",
-    "dimensions": "1920x3840"
+    "size": "85496",
+    "dimensions": "1200x2000"
   }
 ,
   {
-    "name": "diablo",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Disturbing/diablo.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Disturbing/diablo.png",
-    "collections": "Disturbing",
-    "size": "710329",
-    "dimensions": "1440x2560"
+    "name": "low_poly_grey",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Abstract/low_poly_grey.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Abstract/low_poly_grey.png",
+    "collections": "Abstract",
+    "size": "808366",
+    "dimensions": "2000x3000"
   }
 ,
   {
-    "name": "worst_halloween",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Disturbing/worst_halloween.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Disturbing/worst_halloween.png",
-    "collections": "Disturbing",
-    "size": "656720",
-    "dimensions": "1097x1920"
+    "name": "squared",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Abstract/squared.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Abstract/squared.jpg",
+    "collections": "Abstract",
+    "size": "199673",
+    "dimensions": "1076x1920"
   }
 ,
   {
-    "name": "bad_girl",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Disturbing/bad_girl.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Disturbing/bad_girl.png",
-    "collections": "Disturbing",
-    "size": "5211942",
-    "dimensions": "3072x5120"
+    "name": "blue_waves",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Abstract/blue_waves.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Abstract/blue_waves.jpg",
+    "collections": "Abstract",
+    "size": "1067851",
+    "dimensions": "3072x5376"
   }
 ,
   {
-    "name": "harley_quinn",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Disturbing/harley_quinn.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Disturbing/harley_quinn.jpg",
-    "collections": "Disturbing",
-    "size": "623666",
-    "dimensions": "4264x5456"
+    "name": "abstract_triangles",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Abstract/abstract_triangles.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Abstract/abstract_triangles.jpg",
+    "collections": "Abstract",
+    "size": "160920",
+    "dimensions": "1600x2844"
   }
 ,
   {
-    "name": "skull",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Disturbing/skull.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Disturbing/skull.png",
-    "collections": "Disturbing",
-    "size": "792365",
-    "dimensions": "1293x1920"
+    "name": "3d_effect",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Abstract/3d_effect.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Abstract/3d_effect.jpg",
+    "collections": "Abstract",
+    "size": "6230162",
+    "dimensions": "4416x9696"
   }
 ,
   {
-    "name": "portrait_woman",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Disturbing/portrait_woman.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Disturbing/portrait_woman.jpg",
-    "collections": "Disturbing",
-    "size": "109961",
-    "dimensions": "1284x1920"
+    "name": "puzzle",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Abstract/puzzle.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Abstract/puzzle.jpg",
+    "collections": "Abstract",
+    "size": "1167336",
+    "dimensions": "1840x4040"
   }
 ,
   {
-    "name": "alien",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Disturbing/alien.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Disturbing/alien.jpg",
-    "collections": "Disturbing",
-    "size": "50036",
-    "dimensions": "1697x2400"
-  }
-,
-  {
-    "name": "skull_paint",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Disturbing/skull_paint.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Disturbing/skull_paint.jpg",
-    "collections": "Disturbing",
-    "size": "183838",
-    "dimensions": "1280x1920"
-  }
-,
-  {
-    "name": "dents",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Disturbing/dents.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Disturbing/dents.png",
-    "collections": "Disturbing",
-    "size": "396776",
-    "dimensions": "1500x2667"
-  }
-,
-  {
-    "name": "model",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Disturbing/model.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Disturbing/model.jpg",
-    "collections": "Disturbing",
-    "size": "407814",
-    "dimensions": "1389x1920"
-  }
-,
-  {
-    "name": "woman_serious",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Disturbing/woman_serious.jpeg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Disturbing/woman_serious.jpeg",
-    "collections": "Disturbing",
-    "size": "456818",
-    "dimensions": "2143x3500"
-  }
-,
-  {
-    "name": "skull_king",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Disturbing/skull_king.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Disturbing/skull_king.jpg",
-    "collections": "Disturbing",
-    "size": "155998",
-    "dimensions": "1176x1920"
-  }
-,
-  {
-    "name": "crow_at_night",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Disturbing/crow_at_night.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Disturbing/crow_at_night.jpg",
-    "collections": "Disturbing",
-    "size": "1976207",
+    "name": "grunge_moon_man",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Abstract/grunge_moon_man.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Abstract/grunge_moon_man.jpg",
+    "collections": "Abstract",
+    "size": "2830523",
     "dimensions": "3680x8080"
   }
 ,
   {
-    "name": "skull_in_bottle",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Disturbing/skull_in_bottle.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Disturbing/skull_in_bottle.jpg",
-    "collections": "Disturbing",
-    "size": "214092",
-    "dimensions": "1176x1920"
+    "name": "samourai",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/samourai.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/samourai.jpg",
+    "collections": "Miscellaneous",
+    "size": "2407803",
+    "dimensions": "3072x6144"
   }
 ,
   {
-    "name": "ms_addams",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Disturbing/ms_addams.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Disturbing/ms_addams.jpg",
-    "collections": "Disturbing",
-    "size": "398357",
-    "dimensions": "2600x3900"
+    "name": "clock_cuckoo",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/clock_cuckoo.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/clock_cuckoo.png",
+    "collections": "Miscellaneous",
+    "size": "1596371",
+    "dimensions": "1200x1920"
   }
 ,
   {
-    "name": "skull_purple",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Disturbing/skull_purple.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Disturbing/skull_purple.png",
-    "collections": "Disturbing",
-    "size": "1369761",
-    "dimensions": "1440x2560"
-  }
-,
-  {
-    "name": "falcon_sinistry",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Disturbing/falcon_sinistry.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Disturbing/falcon_sinistry.jpg",
-    "collections": "Disturbing",
-    "size": "113085",
-    "dimensions": "1176x1920"
-  }
-,
-  {
-    "name": "blue",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Disturbing/blue.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Disturbing/blue.jpg",
-    "collections": "Disturbing",
-    "size": "75243",
-    "dimensions": "1080x1920"
-  }
-,
-  {
-    "name": "dark_enemy",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Disturbing/dark_enemy.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Disturbing/dark_enemy.png",
-    "collections": "Disturbing",
-    "size": "2332116",
+    "name": "she_walks",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/she_walks.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/she_walks.png",
+    "collections": "Miscellaneous",
+    "size": "2341746",
     "dimensions": "1920x3840"
   }
 ,
   {
-    "name": "women_black",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Disturbing/women_black.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Disturbing/women_black.jpg",
-    "collections": "Disturbing",
-    "size": "160878",
+    "name": "warrior",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/warrior.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/warrior.png",
+    "collections": "Miscellaneous",
+    "size": "821619",
     "dimensions": "1280x1920"
   }
 ,
   {
-    "name": "skull_science",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Disturbing/skull_science.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Disturbing/skull_science.jpg",
-    "collections": "Disturbing",
-    "size": "188818",
-    "dimensions": "1176x1920"
+    "name": "quote",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/quote.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/quote.jpg",
+    "collections": "Miscellaneous",
+    "size": "163956",
+    "dimensions": "1300x2000"
   }
 ,
   {
-    "name": "skull_2",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Disturbing/skull_2.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Disturbing/skull_2.jpg",
-    "collections": "Disturbing",
-    "size": "209680",
-    "dimensions": "1396x1920"
+    "name": "woman_green_hairs",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/woman_green_hairs.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/woman_green_hairs.jpg",
+    "collections": "Miscellaneous",
+    "size": "295132",
+    "dimensions": "2001x3002"
   }
 ,
   {
-    "name": "dont_be_evil",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Disturbing/dont_be_evil.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Disturbing/dont_be_evil.png",
-    "collections": "Disturbing",
-    "size": "2258117",
+    "name": "no_stress",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/no_stress.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/no_stress.jpg",
+    "collections": "Miscellaneous",
+    "size": "669587",
+    "dimensions": "2300x4088"
+  }
+,
+  {
+    "name": "ecliptic_pruple",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/ecliptic_pruple.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/ecliptic_pruple.jpg",
+    "collections": "Miscellaneous",
+    "size": "446689",
+    "dimensions": "1084x2712"
+  }
+,
+  {
+    "name": "android_o",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/android_o.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/android_o.jpg",
+    "collections": "Miscellaneous",
+    "size": "78366",
+    "dimensions": "1200x2200"
+  }
+,
+  {
+    "name": "baseball",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/baseball.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/baseball.jpg",
+    "collections": "Miscellaneous",
+    "size": "2739458",
+    "dimensions": "6144x9984"
+  }
+,
+  {
+    "name": "blue_pink_sax",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/blue_pink_sax.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/blue_pink_sax.jpg",
+    "collections": "Miscellaneous",
+    "size": "202038",
+    "dimensions": "1000x1344"
+  }
+,
+  {
+    "name": "drink",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/drink.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/drink.png",
+    "collections": "Miscellaneous",
+    "size": "98363",
+    "dimensions": "1080x2376"
+  }
+,
+  {
+    "name": "woman_in_the_flowers",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/woman_in_the_flowers.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/woman_in_the_flowers.jpg",
+    "collections": "Miscellaneous",
+    "size": "429875",
+    "dimensions": "2208x4848"
+  }
+,
+  {
+    "name": "red_face",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/red_face.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/red_face.jpg",
+    "collections": "Miscellaneous",
+    "size": "234135",
+    "dimensions": "2208x4848"
+  }
+,
+  {
+    "name": "woman_in_the_jungle",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/woman_in_the_jungle.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/woman_in_the_jungle.jpg",
+    "collections": "Miscellaneous",
+    "size": "597665",
+    "dimensions": "2208x4848"
+  }
+,
+  {
+    "name": "toy",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/toy.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/toy.png",
+    "collections": "Miscellaneous",
+    "size": "712978",
+    "dimensions": "2000x4000"
+  }
+,
+  {
+    "name": "toy_2",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/toy_2.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/toy_2.png",
+    "collections": "Miscellaneous",
+    "size": "415197",
+    "dimensions": "1500x2700"
+  }
+,
+  {
+    "name": "macaroon",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/macaroon.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/macaroon.png",
+    "collections": "Miscellaneous",
+    "size": "906996",
+    "dimensions": "1080x1920"
+  }
+,
+  {
+    "name": "portrait_woman_2",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/portrait_woman_2.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/portrait_woman_2.jpg",
+    "collections": "Miscellaneous",
+    "size": "1237498",
+    "dimensions": "3500x5250"
+  }
+,
+  {
+    "name": "arrows",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/arrows.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/arrows.png",
+    "collections": "Miscellaneous",
+    "size": "40747",
+    "dimensions": "1280x1920"
+  }
+,
+  {
+    "name": "at_work",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/at_work.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/at_work.png",
+    "collections": "Miscellaneous",
+    "size": "2018221",
     "dimensions": "1920x3840"
   }
 ,
   {
-    "name": "nazgul",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Disturbing/nazgul.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Disturbing/nazgul.png",
-    "collections": "Disturbing",
-    "size": "551267",
+    "name": "coffee_explosing",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/coffee_explosing.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/coffee_explosing.png",
+    "collections": "Miscellaneous",
+    "size": "1592199",
+    "dimensions": "1688x3200"
+  }
+,
+  {
+    "name": "cybord_bw",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/cybord_bw.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/cybord_bw.jpg",
+    "collections": "Miscellaneous",
+    "size": "251094",
+    "dimensions": "1840x4040"
+  }
+,
+  {
+    "name": "gamer_forever",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/gamer_forever.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/gamer_forever.jpg",
+    "collections": "Miscellaneous",
+    "size": "257836",
+    "dimensions": "1987x3532"
+  }
+,
+  {
+    "name": "ecliptic_original",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/ecliptic_original.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/ecliptic_original.jpg",
+    "collections": "Miscellaneous",
+    "size": "622744",
+    "dimensions": "1220x2418"
+  }
+,
+  {
+    "name": "cute_green",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/cute_green.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/cute_green.png",
+    "collections": "Miscellaneous",
+    "size": "192891",
+    "dimensions": "1271x1920"
+  }
+,
+  {
+    "name": "speed_car",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/speed_car.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/speed_car.png",
+    "collections": "Miscellaneous",
+    "size": "3246267",
+    "dimensions": "2160x4320"
+  }
+,
+  {
+    "name": "ecliptic_vintage",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/ecliptic_vintage.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/ecliptic_vintage.png",
+    "collections": "Miscellaneous",
+    "size": "836152",
+    "dimensions": "1156x2712"
+  }
+,
+  {
+    "name": "woman_on_fire",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/woman_on_fire.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/woman_on_fire.jpg",
+    "collections": "Miscellaneous",
+    "size": "256533",
+    "dimensions": "1280x1920"
+  }
+,
+  {
+    "name": "astronaut",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/astronaut.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/astronaut.png",
+    "collections": "Miscellaneous",
+    "size": "2100413",
+    "dimensions": "2100x4550"
+  }
+,
+  {
+    "name": "gothic",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/gothic.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/gothic.png",
+    "collections": "Miscellaneous",
+    "size": "240422",
+    "dimensions": "1080x1920"
+  }
+,
+  {
+    "name": "grunge_face_woman",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/grunge_face_woman.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/grunge_face_woman.png",
+    "collections": "Miscellaneous",
+    "size": "2600513",
+    "dimensions": "1920x3840"
+  }
+,
+  {
+    "name": "music_man",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/music_man.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/music_man.jpg",
+    "collections": "Miscellaneous",
+    "size": "206701",
+    "dimensions": "1280x1920"
+  }
+,
+  {
+    "name": "mouth",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/mouth.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/mouth.png",
+    "collections": "Miscellaneous",
+    "size": "791682",
+    "dimensions": "1281x2600"
+  }
+,
+  {
+    "name": "little_red_riding_hood",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/little_red_riding_hood.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/little_red_riding_hood.png",
+    "collections": "Miscellaneous",
+    "size": "1914603",
+    "dimensions": "1920x3840"
+  }
+,
+  {
+    "name": "in_love_2",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/in_love_2.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/in_love_2.jpg",
+    "collections": "Miscellaneous",
+    "size": "585724",
+    "dimensions": "1840x4040"
+  }
+,
+  {
+    "name": "small_fantom",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/small_fantom.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/small_fantom.jpg",
+    "collections": "Miscellaneous",
+    "size": "125634",
+    "dimensions": "1280x1920"
+  }
+,
+  {
+    "name": "azul_stone",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/azul_stone.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/azul_stone.png",
+    "collections": "Miscellaneous",
+    "size": "867411",
     "dimensions": "1440x2560"
   }
 ,
   {
-    "name": "batman_s_son",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Heroes/batman_s_son.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Heroes/batman_s_son.png",
-    "collections": "Heroes",
-    "size": "2108948",
+    "name": "in_love_3",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/in_love_3.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/in_love_3.jpg",
+    "collections": "Miscellaneous",
+    "size": "318592",
+    "dimensions": "1840x4040"
+  }
+,
+  {
+    "name": "music_fan",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/music_fan.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/music_fan.jpg",
+    "collections": "Miscellaneous",
+    "size": "606237",
+    "dimensions": "2300x4088"
+  }
+,
+  {
+    "name": "in_love",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/in_love.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/in_love.png",
+    "collections": "Miscellaneous",
+    "size": "2558435",
     "dimensions": "1920x3840"
   }
 ,
   {
-    "name": "iron_man",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Heroes/iron_man.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Heroes/iron_man.png",
-    "collections": "Heroes",
-    "size": "2427567",
-    "dimensions": "1920x3840"
+    "name": "easter",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/easter.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/easter.png",
+    "collections": "Miscellaneous",
+    "size": "106457",
+    "dimensions": "1080x2376"
+  }
+,
+  {
+    "name": "manga",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Miscellaneous/manga.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Miscellaneous/manga.png",
+    "collections": "Miscellaneous",
+    "size": "4109301",
+    "dimensions": "2500x4449"
   }
 ,
   {
@@ -2898,12 +1467,12 @@
   }
 ,
   {
-    "name": "spider_man",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Heroes/spider_man.png",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Heroes/spider_man.png",
+    "name": "lara_croft",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Heroes/lara_croft.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Heroes/lara_croft.jpg",
     "collections": "Heroes",
-    "size": "2489992",
-    "dimensions": "1920x3840"
+    "size": "145361",
+    "dimensions": "1212x1920"
   }
 ,
   {
@@ -2916,15 +1485,6 @@
   }
 ,
   {
-    "name": "lara_croft",
-    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Heroes/lara_croft.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Heroes/lara_croft.jpg",
-    "collections": "Heroes",
-    "size": "145361",
-    "dimensions": "1212x1920"
-  }
-,
-  {
     "name": "batman_yellow",
     "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Heroes/batman_yellow.png",
     "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Heroes/batman_yellow.png",
@@ -2934,11 +1494,1037 @@
   }
 ,
   {
+    "name": "batman_s_son",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Heroes/batman_s_son.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Heroes/batman_s_son.png",
+    "collections": "Heroes",
+    "size": "2108948",
+    "dimensions": "1920x3840"
+  }
+,
+  {
+    "name": "spider_man",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Heroes/spider_man.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Heroes/spider_man.png",
+    "collections": "Heroes",
+    "size": "2489992",
+    "dimensions": "1920x3840"
+  }
+,
+  {
     "name": "mad_max",
     "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Heroes/mad_max.jpg",
     "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Heroes/mad_max.jpg",
     "collections": "Heroes",
     "size": "188529",
     "dimensions": "1176x1920"
+  }
+,
+  {
+    "name": "iron_man",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Heroes/iron_man.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Heroes/iron_man.png",
+    "collections": "Heroes",
+    "size": "2427567",
+    "dimensions": "1920x3840"
+  }
+,
+  {
+    "name": "giraffe",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Minimalist/giraffe.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Minimalist/giraffe.jpg",
+    "collections": "Minimalist",
+    "size": "34734",
+    "dimensions": "1080x1920"
+  }
+,
+  {
+    "name": "bird",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Minimalist/bird.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Minimalist/bird.png",
+    "collections": "Minimalist",
+    "size": "32107",
+    "dimensions": "1080x2376"
+  }
+,
+  {
+    "name": "minimalist_android",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Minimalist/minimalist_android.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Minimalist/minimalist_android.png",
+    "collections": "Minimalist",
+    "size": "15289",
+    "dimensions": "1080x2000"
+  }
+,
+  {
+    "name": "joker",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Minimalist/joker.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Minimalist/joker.jpg",
+    "collections": "Minimalist",
+    "size": "19955",
+    "dimensions": "1358x1920"
+  }
+,
+  {
+    "name": "airplane",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Minimalist/airplane.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Minimalist/airplane.jpg",
+    "collections": "Minimalist",
+    "size": "53340",
+    "dimensions": "1080x1920"
+  }
+,
+  {
+    "name": "rounded_simple_blue",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Minimalist/rounded_simple_blue.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Minimalist/rounded_simple_blue.jpg",
+    "collections": "Minimalist",
+    "size": "30479",
+    "dimensions": "1600x2844"
+  }
+,
+  {
+    "name": "cowboy",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Minimalist/cowboy.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Minimalist/cowboy.jpg",
+    "collections": "Minimalist",
+    "size": "30219",
+    "dimensions": "1357x1920"
+  }
+,
+  {
+    "name": "vintage_portrait",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Minimalist/vintage_portrait.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Minimalist/vintage_portrait.png",
+    "collections": "Minimalist",
+    "size": "307790",
+    "dimensions": "1280x2700"
+  }
+,
+  {
+    "name": "cat_yellow",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Minimalist/cat_yellow.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Minimalist/cat_yellow.jpg",
+    "collections": "Minimalist",
+    "size": "28548",
+    "dimensions": "1357x1920"
+  }
+,
+  {
+    "name": "walking",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Minimalist/walking.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Minimalist/walking.jpg",
+    "collections": "Minimalist",
+    "size": "23698",
+    "dimensions": "1357x1920"
+  }
+,
+  {
+    "name": "minimalist_space",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Minimalist/minimalist_space.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Minimalist/minimalist_space.png",
+    "collections": "Minimalist",
+    "size": "34493",
+    "dimensions": "1080x2000"
+  }
+,
+  {
+    "name": "rounded_simple_cyan",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Minimalist/rounded_simple_cyan.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Minimalist/rounded_simple_cyan.jpg",
+    "collections": "Minimalist",
+    "size": "27137",
+    "dimensions": "1600x2844"
+  }
+,
+  {
+    "name": "desert",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Minimalist/desert.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Minimalist/desert.png",
+    "collections": "Minimalist",
+    "size": "25345",
+    "dimensions": "1080x2376"
+  }
+,
+  {
+    "name": "cat",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Minimalist/cat.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Minimalist/cat.png",
+    "collections": "Minimalist",
+    "size": "27806",
+    "dimensions": "1080x2376"
+  }
+,
+  {
+    "name": "snow",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Minimalist/snow.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Minimalist/snow.jpg",
+    "collections": "Minimalist",
+    "size": "58195",
+    "dimensions": "1080x1920"
+  }
+,
+  {
+    "name": "cat_3",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Minimalist/cat_3.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Minimalist/cat_3.jpg",
+    "collections": "Minimalist",
+    "size": "31300",
+    "dimensions": "1080x1920"
+  }
+,
+  {
+    "name": "rounded_simple_red",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Minimalist/rounded_simple_red.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Minimalist/rounded_simple_red.jpg",
+    "collections": "Minimalist",
+    "size": "27401",
+    "dimensions": "1600x2844"
+  }
+,
+  {
+    "name": "minimalist_google",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Minimalist/minimalist_google.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Minimalist/minimalist_google.png",
+    "collections": "Minimalist",
+    "size": "16426",
+    "dimensions": "1080x2000"
+  }
+,
+  {
+    "name": "cloud",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Minimalist/cloud.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Minimalist/cloud.jpg",
+    "collections": "Minimalist",
+    "size": "97594",
+    "dimensions": "1080x1920"
+  }
+,
+  {
+    "name": "moustache",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Minimalist/moustache.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Minimalist/moustache.png",
+    "collections": "Minimalist",
+    "size": "12453",
+    "dimensions": "1080x1920"
+  }
+,
+  {
+    "name": "moon_minimalist",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Minimalist/moon_minimalist.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Minimalist/moon_minimalist.png",
+    "collections": "Minimalist",
+    "size": "22593",
+    "dimensions": "1600x2400"
+  }
+,
+  {
+    "name": "camp",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Minimalist/camp.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Minimalist/camp.png",
+    "collections": "Minimalist",
+    "size": "18629",
+    "dimensions": "1080x2376"
+  }
+,
+  {
+    "name": "cute_E_T",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Minimalist/cute_E_T.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Minimalist/cute_E_T.png",
+    "collections": "Minimalist",
+    "size": "44129",
+    "dimensions": "1280x2780"
+  }
+,
+  {
+    "name": "black_bird",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/black_bird.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/black_bird.jpg",
+    "collections": "Animals",
+    "size": "41696",
+    "dimensions": "1080x1920"
+  }
+,
+  {
+    "name": "snake",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/snake.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/snake.png",
+    "collections": "Animals",
+    "size": "1010074",
+    "dimensions": "1160x1920"
+  }
+,
+  {
+    "name": "jelly_fish",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/jelly_fish.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/jelly_fish.jpg",
+    "collections": "Animals",
+    "size": "161115",
+    "dimensions": "1280x1920"
+  }
+,
+  {
+    "name": "tiger_grunge",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/tiger_grunge.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/tiger_grunge.png",
+    "collections": "Animals",
+    "size": "5480313",
+    "dimensions": "2448x5000"
+  }
+,
+  {
+    "name": "birds",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/birds.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/birds.png",
+    "collections": "Animals",
+    "size": "76485",
+    "dimensions": "1080x2376"
+  }
+,
+  {
+    "name": "crow",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/crow.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/crow.png",
+    "collections": "Animals",
+    "size": "162984",
+    "dimensions": "1250x1920"
+  }
+,
+  {
+    "name": "dragon_fire",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/dragon_fire.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/dragon_fire.jpg",
+    "collections": "Animals",
+    "size": "354157",
+    "dimensions": "1080x1920"
+  }
+,
+  {
+    "name": "dangerous_snake",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/dangerous_snake.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/dangerous_snake.jpg",
+    "collections": "Animals",
+    "size": "746901",
+    "dimensions": "3362x6000"
+  }
+,
+  {
+    "name": "bear",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/bear.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/bear.png",
+    "collections": "Animals",
+    "size": "82260",
+    "dimensions": "1080x2376"
+  }
+,
+  {
+    "name": "snake_for_sinfonia",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/snake_for_sinfonia.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/snake_for_sinfonia.png",
+    "collections": "Animals",
+    "size": "2650304",
+    "dimensions": "1920x3840"
+  }
+,
+  {
+    "name": "raccoon",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/raccoon.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/raccoon.png",
+    "collections": "Animals",
+    "size": "76345",
+    "dimensions": "1080x2376"
+  }
+,
+  {
+    "name": "flamingo",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/flamingo.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/flamingo.png",
+    "collections": "Animals",
+    "size": "2383955",
+    "dimensions": "1920x3840"
+  }
+,
+  {
+    "name": "owl_beauty",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/owl_beauty.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/owl_beauty.jpg",
+    "collections": "Animals",
+    "size": "1042590",
+    "dimensions": "4096x6144"
+  }
+,
+  {
+    "name": "goth_dog",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/goth_dog.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/goth_dog.jpg",
+    "collections": "Animals",
+    "size": "304788",
+    "dimensions": "2143x3500"
+  }
+,
+  {
+    "name": "girafe_smile",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/girafe_smile.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/girafe_smile.jpg",
+    "collections": "Animals",
+    "size": "232343",
+    "dimensions": "1076x1920"
+  }
+,
+  {
+    "name": "kitsune_wolf",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/kitsune_wolf.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/kitsune_wolf.png",
+    "collections": "Animals",
+    "size": "1614393",
+    "dimensions": "1920x3840"
+  }
+,
+  {
+    "name": "fox_on_fire",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/fox_on_fire.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/fox_on_fire.png",
+    "collections": "Animals",
+    "size": "2400431",
+    "dimensions": "1920x3840"
+  }
+,
+  {
+    "name": "jellyfish",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/jellyfish.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/jellyfish.png",
+    "collections": "Animals",
+    "size": "577950",
+    "dimensions": "1536x2300"
+  }
+,
+  {
+    "name": "real_cat",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/real_cat.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/real_cat.png",
+    "collections": "Animals",
+    "size": "673777",
+    "dimensions": "1080x1920"
+  }
+,
+  {
+    "name": "dragon",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/dragon.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/dragon.jpg",
+    "collections": "Animals",
+    "size": "47549",
+    "dimensions": "1080x1920"
+  }
+,
+  {
+    "name": "mythic_dragon",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/mythic_dragon.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/mythic_dragon.png",
+    "collections": "Animals",
+    "size": "2631217",
+    "dimensions": "1536x3136"
+  }
+,
+  {
+    "name": "foxy",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/foxy.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/foxy.jpg",
+    "collections": "Animals",
+    "size": "362937",
+    "dimensions": "2143x3500"
+  }
+,
+  {
+    "name": "fox",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/fox.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/fox.png",
+    "collections": "Animals",
+    "size": "95903",
+    "dimensions": "1080x2376"
+  }
+,
+  {
+    "name": "owl",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/owl.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/owl.jpg",
+    "collections": "Animals",
+    "size": "325932",
+    "dimensions": "2143x3500"
+  }
+,
+  {
+    "name": "butterfly",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/butterfly.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/butterfly.jpg",
+    "collections": "Animals",
+    "size": "37238",
+    "dimensions": "1200x1920"
+  }
+,
+  {
+    "name": "fantasy_dragon",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/fantasy_dragon.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/fantasy_dragon.png",
+    "collections": "Animals",
+    "size": "2983155",
+    "dimensions": "2160x3840"
+  }
+,
+  {
+    "name": "tiger_bengale",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/tiger_bengale.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/tiger_bengale.jpg",
+    "collections": "Animals",
+    "size": "661358",
+    "dimensions": "1840x4040"
+  }
+,
+  {
+    "name": "penguins",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/penguins.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/penguins.png",
+    "collections": "Animals",
+    "size": "1967987",
+    "dimensions": "1920x3840"
+  }
+,
+  {
+    "name": "tomcat",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/tomcat.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/tomcat.jpg",
+    "collections": "Animals",
+    "size": "183468",
+    "dimensions": "1281x1920"
+  }
+,
+  {
+    "name": "horse",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/horse.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/horse.jpg",
+    "collections": "Animals",
+    "size": "441545",
+    "dimensions": "1280x1920"
+  }
+,
+  {
+    "name": "black_cat_head",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/black_cat_head.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/black_cat_head.jpg",
+    "collections": "Animals",
+    "size": "1552948",
+    "dimensions": "3680x8080"
+  }
+,
+  {
+    "name": "jaguar",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/jaguar.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/jaguar.jpg",
+    "collections": "Animals",
+    "size": "56211",
+    "dimensions": "1358x1920"
+  }
+,
+  {
+    "name": "pink_snake",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/pink_snake.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/pink_snake.png",
+    "collections": "Animals",
+    "size": "2136582",
+    "dimensions": "1920x3840"
+  }
+,
+  {
+    "name": "eye",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/eye.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/eye.jpg",
+    "collections": "Animals",
+    "size": "252856",
+    "dimensions": "1080x1920"
+  }
+,
+  {
+    "name": "rabbit_blur",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/rabbit_blur.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/rabbit_blur.jpg",
+    "collections": "Animals",
+    "size": "267760",
+    "dimensions": "2336x4096"
+  }
+,
+  {
+    "name": "little_lion",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/little_lion.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/little_lion.png",
+    "collections": "Animals",
+    "size": "2616890",
+    "dimensions": "1920x3840"
+  }
+,
+  {
+    "name": "meerkat",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/meerkat.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/meerkat.png",
+    "collections": "Animals",
+    "size": "1678169",
+    "dimensions": "1920x3840"
+  }
+,
+  {
+    "name": "raven",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/raven.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/raven.jpg",
+    "collections": "Animals",
+    "size": "111855",
+    "dimensions": "1358x2300"
+  }
+,
+  {
+    "name": "fox_2",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/fox_2.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/fox_2.png",
+    "collections": "Animals",
+    "size": "99924",
+    "dimensions": "1080x2376"
+  }
+,
+  {
+    "name": "im_alright",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/im_alright.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/im_alright.jpg",
+    "collections": "Animals",
+    "size": "481300",
+    "dimensions": "1840x4040"
+  }
+,
+  {
+    "name": "rabbit",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/rabbit.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/rabbit.png",
+    "collections": "Animals",
+    "size": "61978",
+    "dimensions": "1080x2376"
+  }
+,
+  {
+    "name": "wolf_fire",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/wolf_fire.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/wolf_fire.jpg",
+    "collections": "Animals",
+    "size": "909597",
+    "dimensions": "2448x4368"
+  }
+,
+  {
+    "name": "osheden_christmas",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/osheden_christmas.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/osheden_christmas.png",
+    "collections": "Animals",
+    "size": "68514",
+    "dimensions": "1920x3500"
+  }
+,
+  {
+    "name": "little_elephant",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/little_elephant.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/little_elephant.png",
+    "collections": "Animals",
+    "size": "2836957",
+    "dimensions": "1920x3840"
+  }
+,
+  {
+    "name": "rabits",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/rabits.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/rabits.jpg",
+    "collections": "Animals",
+    "size": "24582",
+    "dimensions": "1200x2100"
+  }
+,
+  {
+    "name": "elephant",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/elephant.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/elephant.jpg",
+    "collections": "Animals",
+    "size": "34663",
+    "dimensions": "1357x1920"
+  }
+,
+  {
+    "name": "bear_automn",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/bear_automn.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/bear_automn.png",
+    "collections": "Animals",
+    "size": "2679628",
+    "dimensions": "1920x3840"
+  }
+,
+  {
+    "name": "black_cat",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/black_cat.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/black_cat.png",
+    "collections": "Animals",
+    "size": "171731",
+    "dimensions": "1440x2560"
+  }
+,
+  {
+    "name": "horse_neon",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/horse_neon.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/horse_neon.jpg",
+    "collections": "Animals",
+    "size": "864387",
+    "dimensions": "4080x7280"
+  }
+,
+  {
+    "name": "tiger",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/tiger.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/tiger.jpg",
+    "collections": "Animals",
+    "size": "280884",
+    "dimensions": "1536x3072"
+  }
+,
+  {
+    "name": "horse_2",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/horse_2.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/horse_2.jpg",
+    "collections": "Animals",
+    "size": "235898",
+    "dimensions": "1252x1920"
+  }
+,
+  {
+    "name": "fish_pixels",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/fish_pixels.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/fish_pixels.png",
+    "collections": "Animals",
+    "size": "911856",
+    "dimensions": "1076x1920"
+  }
+,
+  {
+    "name": "owl_winter",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/owl_winter.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/owl_winter.jpg",
+    "collections": "Animals",
+    "size": "195530",
+    "dimensions": "1176x1920"
+  }
+,
+  {
+    "name": "bear_2",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/bear_2.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/bear_2.png",
+    "collections": "Animals",
+    "size": "68321",
+    "dimensions": "1080x2376"
+  }
+,
+  {
+    "name": "wolf_strong",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/wolf_strong.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/wolf_strong.png",
+    "collections": "Animals",
+    "size": "3272418",
+    "dimensions": "1920x3840"
+  }
+,
+  {
+    "name": "falcon_man",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Animals/falcon_man.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Animals/falcon_man.jpg",
+    "collections": "Animals",
+    "size": "1394419",
+    "dimensions": "3500x4500"
+  }
+,
+  {
+    "name": "snake_black",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/snake_black.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/snake_black.png",
+    "collections": "Amoled",
+    "size": "92308",
+    "dimensions": "1665x3167"
+  }
+,
+  {
+    "name": "pexels",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/pexels.jpeg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/pexels.jpeg",
+    "collections": "Amoled",
+    "size": "709119",
+    "dimensions": "2450x4000"
+  }
+,
+  {
+    "name": "ink2",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/ink2.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/ink2.png",
+    "collections": "Amoled",
+    "size": "89695",
+    "dimensions": "1417x1920"
+  }
+,
+  {
+    "name": "runner",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/runner.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/runner.jpg",
+    "collections": "Amoled",
+    "size": "49714",
+    "dimensions": "1600x2844"
+  }
+,
+  {
+    "name": "sticks",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/sticks.jpeg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/sticks.jpeg",
+    "collections": "Amoled",
+    "size": "45183",
+    "dimensions": "2592x3888"
+  }
+,
+  {
+    "name": "black_crow",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/black_crow.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/black_crow.png",
+    "collections": "Amoled",
+    "size": "31701",
+    "dimensions": "1250x1920"
+  }
+,
+  {
+    "name": "zen",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/zen.jpeg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/zen.jpeg",
+    "collections": "Amoled",
+    "size": "326855",
+    "dimensions": "3241x5270"
+  }
+,
+  {
+    "name": "fractal",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/fractal.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/fractal.jpg",
+    "collections": "Amoled",
+    "size": "253533",
+    "dimensions": "1600x2844"
+  }
+,
+  {
+    "name": "blue_woman",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/blue_woman.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/blue_woman.png",
+    "collections": "Amoled",
+    "size": "75981",
+    "dimensions": "1500x2667"
+  }
+,
+  {
+    "name": "mirror_light",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/mirror_light.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/mirror_light.jpg",
+    "collections": "Amoled",
+    "size": "791972",
+    "dimensions": "3744x5616"
+  }
+,
+  {
+    "name": "ink",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/ink.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/ink.png",
+    "collections": "Amoled",
+    "size": "48000",
+    "dimensions": "1150x2000"
+  }
+,
+  {
+    "name": "candle",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/candle.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/candle.png",
+    "collections": "Amoled",
+    "size": "421418",
+    "dimensions": "1500x2667"
+  }
+,
+  {
+    "name": "sing",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/sing.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/sing.jpg",
+    "collections": "Amoled",
+    "size": "35900",
+    "dimensions": "1276x1920"
+  }
+,
+  {
+    "name": "figure",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/figure.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/figure.jpg",
+    "collections": "Amoled",
+    "size": "67724",
+    "dimensions": "1280x1920"
+  }
+,
+  {
+    "name": "spider",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/spider.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/spider.jpg",
+    "collections": "Amoled",
+    "size": "38151",
+    "dimensions": "1150x2000"
+  }
+,
+  {
+    "name": "wolf_blue",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/wolf_blue.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/wolf_blue.jpg",
+    "collections": "Amoled",
+    "size": "39049",
+    "dimensions": "1150x2000"
+  }
+,
+  {
+    "name": "terror",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/terror.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/terror.jpg",
+    "collections": "Amoled",
+    "size": "113963",
+    "dimensions": "1210x1920"
+  }
+,
+  {
+    "name": "tree",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/tree.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/tree.jpg",
+    "collections": "Amoled",
+    "size": "178030",
+    "dimensions": "1600x2844"
+  }
+,
+  {
+    "name": "butterfly_colorful",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/butterfly_colorful.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/butterfly_colorful.jpg",
+    "collections": "Amoled",
+    "size": "209544",
+    "dimensions": "1600x2844"
+  }
+,
+  {
+    "name": "man_monkey",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/man_monkey.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/man_monkey.jpg",
+    "collections": "Amoled",
+    "size": "104393",
+    "dimensions": "1469x1920"
+  }
+,
+  {
+    "name": "reverse",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/reverse.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/reverse.jpg",
+    "collections": "Amoled",
+    "size": "26819",
+    "dimensions": "1280x1920"
+  }
+,
+  {
+    "name": "woman_bw",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/woman_bw.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/woman_bw.jpg",
+    "collections": "Amoled",
+    "size": "75993",
+    "dimensions": "1280x1920"
+  }
+,
+  {
+    "name": "woman_art",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/woman_art.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/woman_art.jpg",
+    "collections": "Amoled",
+    "size": "41596",
+    "dimensions": "1280x1920"
+  }
+,
+  {
+    "name": "google_white",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/google_white.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/google_white.jpg",
+    "collections": "Amoled",
+    "size": "69773",
+    "dimensions": "1600x2844"
+  }
+,
+  {
+    "name": "circular",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/circular.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/circular.jpg",
+    "collections": "Amoled",
+    "size": "116960",
+    "dimensions": "1600x2844"
+  }
+,
+  {
+    "name": "hand",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/hand.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/hand.jpg",
+    "collections": "Amoled",
+    "size": "112603",
+    "dimensions": "1150x2000"
+  }
+,
+  {
+    "name": "google",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/google.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/google.jpg",
+    "collections": "Amoled",
+    "size": "24297",
+    "dimensions": "1600x2844"
+  }
+,
+  {
+    "name": "dancing",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/dancing.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/dancing.png",
+    "collections": "Amoled",
+    "size": "269783",
+    "dimensions": "1440x2560"
+  }
+,
+  {
+    "name": "angel",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/angel.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/angel.png",
+    "collections": "Amoled",
+    "size": "47238",
+    "dimensions": "1279x1920"
+  }
+,
+  {
+    "name": "circles",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/circles.jpeg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/circles.jpeg",
+    "collections": "Amoled",
+    "size": "323884",
+    "dimensions": "4836x8000"
+  }
+,
+  {
+    "name": "luz",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/luz.jpeg",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/luz.jpeg",
+    "collections": "Amoled",
+    "size": "336237",
+    "dimensions": "2249x4000"
+  }
+,
+  {
+    "name": "buldings",
+    "url": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Originals/Amoled/buldings.png",
+    "thumbnail": "https://raw.githubusercontent.com/OSHeden/wallpapers/main/Frames/Thumbs/Amoled/buldings.png",
+    "collections": "Amoled",
+    "size": "355220",
+    "dimensions": "2000x3635"
   }
 ]
